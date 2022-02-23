@@ -1,0 +1,633 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's appeal, to her high court of Parliament; against Irish and Scottish evidence</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38377</idno>
+            <idno type="STC">Wing E2943A</idno>
+            <idno type="STC">ESTC R216105</idno>
+            <idno type="EEBO-CITATION">99827857</idno>
+            <idno type="PROQUEST">99827857</idno>
+            <idno type="VID">32280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1924:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's appeal, to her high court of Parliament; against Irish and Scottish evidence</title>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; date in Wing = [1695].</note>
+                  <note>An appeal to Parliament to make perjury in treason trials a capital offense, with particular reference to victims of the Popish Plot tried before 1682, but no mention of the Rye House Plot of 1683.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Perjury --  England --  Early works to 1800.</term>
+               <term>Trials (Perjury) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:32280:1"/>
+            <pb n="1" facs="tcp:32280:1" rendition="simple:additions"/>
+            <head>
+               <hi>ENGLAND's</hi> Appeal, to her High Court of Par<g ref="char:EOLhyphen"/>liament; Againſt <hi>Iriſh</hi> and <hi>Scottiſh</hi> Evidence.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>IT is your Country, your Native Country that Appeals to You; It is you only that repre<g ref="char:EOLhyphen"/>ſent your Country, and are the Pillars of it, who can Redreſs its worſt of Grievances; and worſt of Sins. <hi>Wilful Perjury,</hi> and ſecure to its Subjects their <hi>Lives,</hi> which next to their Religion muſt be certainly moſt Dear, Let them <hi>Live</hi> if only to Enjoy the benefit of that Religion, and Liberty, you have ſo dearly Purchas'd and Eſtabliſh'd for them; and leave not Men of Honor, Eſtates, and Fortunes like your Selves, (and who we ſee by <hi>Young</hi>'s Aſſociation to be alſo liable) to he Sworn out of their Lives, their Fortunes and Eſtates, by the Perfidious Breath of Manag'd and Confederate Miſcreants, who are <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly a ſort of more Monſtrous Cannibals, that not only make a Meal upon the Man; but devour at once his Fa<g ref="char:EOLhyphen"/>mily and Inheritance, Wretches in this only to be pitied, tho' not pardon'd, that they are half famiſh'd before into the Villanies they commit, and ſtolen from the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>als and Gibbets, to bring the better ſort to thoſe Halters and Dungeons from whence they are unluckily eſ<g ref="char:EOLhyphen"/>capt, or deſignedly manumitted.</p>
+            <p>Among Forreigners that once envied us, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was call'd the <hi>Ringing Iſland,</hi> and mainly in<g ref="char:EOLhyphen"/>deed did we <hi>Troule</hi> it away in <hi>Peace</hi> and <hi>Plen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and deſtroy'd the pleaſantry of that Appella<g ref="char:EOLhyphen"/>tion; till that fatal Period in 78. That <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Aera, of <hi>Iriſh</hi> Oath and Affidavit; ſince which, we were turn'd into the <hi>Hanging</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have <hi>Rung</hi> indeed, Changes, and the Round, but in the Blood of one another. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ells ſeem'd to ſtop while we only made uſe of the Ropes; and as if there had been no <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs</hi> in <hi>England:</hi> but that of <hi>London</hi> or <hi>Tyburn;</hi> and ſo we have continued ever ſince <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>byterian, Church of England, all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame way; and God know<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when this <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Blood, of Innocent Blood will be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>op <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unleſs the Wiſdom of this Parliament will <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly limit <hi>conſtructive Treaſon,</hi> but take ſome c<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſe to prevent <hi>inſtructed Evidence,</hi> and to ſuſpend the <hi>Ax</hi> a while with the <hi>Halter.</hi> What comfort can <hi>Engliſhmen</hi> take in all thoſe Bleſſings and Benefits You procure them, in the Laws which You make, in the Liberties which You contend for, in the <hi>Religion</hi> that is <hi>dearer</hi> to You <hi>than</hi> Your <hi>Lives;</hi> when your Lives are in Jeopardy every hour, and when with St. <hi>Paul</hi> alſo, <hi>after the manner of Men,</hi> we are put to <hi>fight</hi> with <hi>Beaſts, Iriſh Welves,</hi> (or that is the more devouring Animal) <hi>Iriſh Evidence:</hi> The <hi>Romans</hi> n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er expoſed their <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſerable Spectacles ſo naked in their Amphitheatres as we Chriſtians do o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> another to worſe Monſters: They allow'd them Dagger, Sword and Target; when a baited Priſoner at a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ack'd by a Couple of Confederate Ruffians of the Mouth. ſhall be bl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the very Eyes of theſe Baſilisks, and ſwallow'd up whole by the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>chre</hi> of their <hi>Throat;</hi> who like <hi>David</hi>'s Euemies, <hi>ſtand staring</hi> and <hi>gaping up</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Enemy of us all, the Devil, go about ſeeking whom <hi>they may devour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſoner in this manner beſet, as if not only the <hi>Goal,</hi> but <hi>Hell</hi> it ſelf were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on him, ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deny'd a piece of ſingle Paper or Parchment, the bare <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Indiction <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> for a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ield or Buckler; and to hear it by Lawyers urg'd in a Cour<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of J<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, that <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>actice of the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te Reigns</hi> made it Law, looks like a Libel, and an <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> Power, that is ſet up; and ſet up purely to redreſs the Grievances of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which pre<g ref="char:EOLhyphen"/>tended not to re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eem us from <hi>Law</hi> but <hi>Oppreſſion.</hi>
+            </p>
+            <pb n="2" facs="tcp:32280:2"/>
+            <p> The Kings of <hi>England</hi> have advantage enough (on theſe occaſions) beſides, by the Learn<g ref="char:EOLhyphen"/>ing of their Judges; The Eloquence of their Council (many times mortal and <hi>killing</hi> enough) and above all (as the <hi>Caſe</hi> ſtands at preſent) (or the <hi>Practi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> for which there is no <hi>Law)</hi> (by the <hi>Priſoner</hi>'s Evidence being not ſworn againſt the King. An unjuſt; and partial proceſs, and unworthy of a Court of Judicature, and in no Country us'd or practis'd but in our own; for an honeſt Jury we find, when impos'd upon by a Couple of Perjur'd Villains commonly lay more weight upon what is <hi>Sworn</hi> upon Oath than teſtified without it, tho by much more honeſt Men than the King's Evidence have happen'd to be; and this we are afraid ſome poor innocents have ſadly experienc'd. We know our Judges ſometimes in ſeeming favour to the Priſoners, recommend to the Jurors the weight of their Evidence <hi>unſworn;</hi> but that, (where the King is concern'd, more eſpecially in High Treaſon) is commonly ſo coldly done, that it ſeldom has its due weight, as wanting the Corroboration of that Oath by which the King's is Countenanc'd and Confirm'd; and therefore 'tis time to give Priſoners favour and fair play, and as much time as the Court can poſſible, which my Lord <hi>Coke,</hi> again and again ſays in Caſe of <hi>Life</hi> can <hi>never be too long:</hi> and eſpecially ſince falſe Swearing them out of their <hi>Lives</hi> is grown a Crime no leſs common, than notorious, as cuſtomary, as if it were a Cuſtom-houſe Oath, or Entry; and a Bill of Indictment for High Treaſon is no more re<g ref="char:EOLhyphen"/>garded by theſe ſort of <hi>Jurors</hi> than there a Bill of Loading or Store; and indeed confidering the Lives and Eſtates that lie at ſtake; theſe Affidavit Teagues, or <hi>Iriſh</hi> Adventurers that truck for them, have this common with other Merchants and Incorporated Companies, that accordingly their Actions riſe and fall proportionably to the Wealth and Cargo they bring to the Bar.</p>
+            <p>This then Gentlemen, being the <hi>Caſe,</hi> (as certainly ſo it is) This <hi>Caſe</hi> is no common one that comes before You, no Caſe of Tradeſmen; Mechaniſm or Manufacture, no Caſe of the Chyrurgeons or Phyſicians, tho' a bleeding Caſe of the Nation; and what <hi>You,</hi> only <hi>You</hi> can ſtanch, ſtop, and Cure; It reſpects no more particular Parties than Perſons, for ſuch has been poor <hi>England</hi>'s misfortune; that ſome of all Parties and perſwaſions have been ſacrificed by theſe Blood-ſuckers, theſe Bogg-Leeches, ſince they crawl'd into <hi>Engliſh</hi> Ground; and tho Popery here is as hateful as an <hi>Iriſhman,</hi> I am afraid ſome Innocent among the Papiſt led the <hi>Van</hi> in this <hi>Akeldama,</hi> this <hi>Field of Blood;</hi> and that by ſome of their <hi>Iriſh</hi> Countrimen and Religion, as well as by ſome of ours that were of no Religion at all; next to theſe marcht (to make the <hi>Body)</hi> thoſe that were called <hi>Fanaticks;</hi> who followed the ſame <hi>way</hi> to <hi>Golgo<g ref="char:EOLhyphen"/>tha,</hi> to <hi>Tyburn,</hi> that <hi>place</hi> of <hi>Skuls;</hi> and now ſome of the ſtrict Church of <hi>England</hi> Men (as the <hi>Jacobites</hi> and <hi>Non-Jurors</hi> think themſelves) have been favoured ſo far by theſe <hi>Monſters</hi> as to bring up the <hi>Rear;</hi> and by a Courte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie like that of <hi>Polyphemus,</hi> are come to be devour'd at the <hi>laſt;</hi> and this is the way indeed to make an Army of Martyrs; but neither from the <hi>Juſtice</hi> of their Cauſe, or the Favour of God Almighty to ſo many injur'd Perſons. The Malice of theſe Diabolical Men, their Accuſers has been openly detected, and as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ignally defeated, in about the ſpace of one <hi>Year,</hi> in two or three of the moſt flagitions Conſpiracies to take a<g ref="char:EOLhyphen"/>way their Lives, as ever was offer'd among a Chriſtian people; and what an Infidel would not only bluſh at, that believes there is no God, but hang himſelf for the Guilt of ſo much Inju<g ref="char:EOLhyphen"/>ſtice and Inhumanity; and thoſe that have the greateſt Averſion to their perſons and princi<g ref="char:EOLhyphen"/>ples muſt admit this for a <hi>Truth</hi> and matter of Fact, too notorious for any of us to give them the Lye.</p>
+            <p>That theſe are no Invidious Reflexions we ſhall confirm in each Individual party, by ſo many Matters of Fact, and then only endeavour to enforce the reaſonableneſs of redre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing theſe miſerable Grievances, from the practice of moſt human Laws; from the practice of Old <hi>England</hi>'s Laws, and the plain direction of God's Law, the moſt Divine. And firſt, to begin with the <hi>Popiſh Plot,</hi> for we have had ſuch varieties of them in <hi>England,</hi> that we are grown a Jeſt by it to all For<g ref="char:EOLhyphen"/>reign
+<pb n="3" facs="tcp:32280:2"/> Nations, for 'tis well known abroad, that when any Wits are diſpos'd to be Jocoſe, and ridicule any unaccountable and ridiculous Diſcovery, they can find no pleaſanter Appellation for it than, <hi>Une Plotte d'Angle Terre;</hi> and this tho in <hi>French</hi> is the Language of moſt other Countries.</p>
+            <p>That there were endeavours by Mr. <hi>Coleman,</hi> and ſome of their Popiſh Prieſt to ſubvert the Eſtabliſht Religion, and introduce their own (which could not be done without overturning our Conſtitution, which in them was Treaſon (what<g ref="char:EOLhyphen"/>ever Mr. <hi>Coleman</hi> 
+               <note n="*" place="margin">
+                  <hi>Coleman</hi>'s Try<g ref="char:EOLhyphen"/>al. p. 17, 18, 20.</note> thought to the contrary) no modeſt Man can doubt even of a Papiſt that has read his Letters, and for that he deſerv'd Death; and the Wiſdom of that Court to which we now appeal, did upon the peruſal of his <hi>Papers,</hi> Vote it a Form'd Conſpiracy, more than upon any <hi>Teſtimony</hi> of Mr. <hi>T. O.</hi> but whether <hi>T. O.</hi> had a Patent to open Letters, in which <hi>Coleman</hi> call'd the King <hi>Tyrant</hi> and <hi>Traytor;</hi> and were privy to the <hi>Guinea</hi> that <note n="†" place="margin">p. 2. 4.</note> 
+               <hi>Coleman</hi> gave to Expe<g ref="char:EOLhyphen"/>dite the Ruffians to kill the King? Or whether he that had Coin'd ſo ma<g ref="char:EOLhyphen"/>ny Letters for him, could not remember his Face by <note n="*" place="margin">p. 30.</note> Candle Light; or could well in Council declare upon his Oath he did not <note n="†" place="margin">p. ibid. and 38<g ref="char:punc">▪</g>
+               </note> know him, he was to hang; This may make the Teſtimony ſomewhat ſuſpected while the Conſpiracy is out of doubt; and that <hi>Bedloe,</hi> which alſo ſwears he had carried ſeveral Letters alſo from him, and diſcours'd him in <note n="*" place="margin">p. 43, 44.</note> 
+               <hi>Somerſet-houſe,</hi> ſhould be ſo for<g ref="char:EOLhyphen"/>got by him, as to make him take it to his Death, he had never ſeen him in all his life; this may detract ſomewhat from the Cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dit of the Evidence without injuring the Juſtice of the Nation by which he did, much leſs leſſening the belief of their Deſign to introduce their Religion: And the ſeveral Jeſuits that ſucceeded him in their Trials and Executions, and were probably embarqu'd in the ſame Deſign, which as well as <hi>Coleman</hi> they did confeſs they had endeavour'd to promote, (tho they were pleas'd to think it no Treaſon to propagate their Religion) yet all with their laſt Breath and Imprecations de<g ref="char:EOLhyphen"/>nied the meaſures by which it was <hi>Sworn</hi> they had endeavour'd to compaſs it. Their Dying Proteſtations muſt ſtartle many a good Proteſtant when he looks upon them. But as a Chriſti<g ref="char:EOLhyphen"/>an, and that in ſpight of all the ſevere Coments and Expoſitions of our Eminent Divines, our <hi>T</hi>'s, and our <hi>Sh</hi>'s, <hi>Bt</hi>'s, and <hi>Pat</hi>'s, upon the Loyalty of the <hi>Papiſt,</hi> and the equivocations of the <hi>Jeſuits,</hi> which they did not then think they ſhould have occaſion to practiſe: Their <hi>Plot</hi> upon our Religion, we ſay, was very probably true; but whether the Circumſtantial E<g ref="char:EOLhyphen"/>vidence were all ſo, we think yet remains a doubt, and indeed <note n="*" place="margin">
+                  <hi>Jeſuit</hi>'s <hi>Trial.</hi> p. 23, 24.</note> the <hi>Forty thouſand Black Bills;</hi> the <hi>Commiſſions</hi> from <hi>Paulus de Oliva,</hi> the Monk of <note place="margin">
+                  <hi>Coleman</hi>'s <hi>Tryal.</hi> p. 23.</note> the <hi>Pilgrims</hi> from <hi>Spain;</hi> The killing the King with Silver Bullets, poy<g ref="char:EOLhyphen"/>ſon'd by Chewing; The thirty ſtrokes on <hi>Pickering</hi>'s Bum for failing in it, ſeem ſuch a myſtical Roll of ridiculous Abſurdities, as if they had been teſtified for the Diverſion of the Court, rather than as Evidence for the King, yet all theſe we find liberally ſworn; as for our parts, we are really diſcontented at any honor or kindneſs done ſuch an Evidence; In God's Name let <hi>Oats</hi> and <hi>Keeling,</hi> both enjoy their Annual Penſions together; no man, I believe, will envy either of them their Salaries no further than it may encourage worſe Men to aſpire to it at the Price of Blood; which if Mr. O. be guilty of, let him know that by all the Laws of God and Man, 'tis what all his me<g ref="char:EOLhyphen"/>ritorions Sufferings have not yet expiated.</p>
+            <p>But the Caſe that comes nearer to the <hi>Caſe</hi> in hand, and upon this <hi>head;</hi> is <hi>Plunket's,</hi> A perſon that ſeem'd from the Character he had from Eminent Proteſtants in <hi>Ireland,</hi> of no ſuch Intemperate Zeal, and to have but little other Crime; but his being a Prieſt of the Church of <hi>Rome;</hi> upon which Act they had better Indicted him.</p>
+            <pb n="4" facs="tcp:32280:3"/>
+            <p> The Trying of him here in a forreign Country tho by an Act of our own ſubjected to our Juriſdiction; and that after he had been legally acquitted in his, where tho in their own <hi>Ire<g ref="char:EOLhyphen"/>land</hi> his Evidence were aſham'd to ſhew their Faces in a Court of Judicature; The expoſing him here naked, and as he told them with his Hands ty'd; The denying him ten days time af<g ref="char:EOLhyphen"/>ter his Evidence were upon the Road; and tho our Lawyers were n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t pleas'd to anſwer him to that Point of <hi>Poyning</hi>'s Act; yet that (by their leave) which they gave to that Objection of his being <hi>twice Arraign'd</hi> for the ſame Fact ſeems very inſufficient and weak; for I think Arraigment for High Treaſon puts a Man in danger of his Life with a witneſs, eſpecially the time and circumſtances the Priſoner was in, and ſuch Witneſſes to worry him; for if a Man ſhall not be in danger of his Life, till he is convicted, then he is never ſo at all, for after Conviction, he is worſe than in danger, and as good as gone; For tho the King may pardon, what is an extrajudicial thing; an Act of Grace, and forreign to the Trial; and to ſee what Creatures they were that appear'd upon it to teſtify againſt him, or <hi>Take the Swear</hi> (as they phra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d it) would induce a man to believe a little better of <hi>T.</hi> O's Fellows, that ſeem'd to be rak'd out of their own <hi>Iriſh Boggs,</hi> and whom even their own Diſpenſing, Latitudinarian Re<g ref="char:EOLhyphen"/>ligion had ſpew'd out of their Church; fitter to be carried out with our Night <hi>Weddings,</hi> than woo'd as they were (about that time) firſt to come over, of which Lowſie Cattle we would have afterwards been gladly rid, but the Nation was overſtockt; and ſo the Plague and Murrain has continu'd with us ever ſince; and have produc'd a Race that are like thoſe filthy Creatures that crawl out of Mud with all the Toad-pole train that are Generated out of Slime and putrefaction; and what work was made with thoſe <hi>Macwyers, Macmoyers, Frogs,</hi> and <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yars,</hi> with their Duffy's and Mouffy's; let any ſober <hi>Proteſtant</hi> but conſider; the latter of which begins in a right <hi>Iriſh</hi> Dialogue † Why look ye <note place="margin">
+                  <hi>Plunket</hi>'s Tri<g ref="char:EOLhyphen"/>al. p. 80, 81.</note> Maſters, <hi>I am firſt Diſcoverer, I<g ref="char:punc">▪</g>ſh have ten Witneſs to the Doctor in</hi> Ireland, <hi>theſe Witneſs (I<g ref="char:punc">▪</g>ſh am ſorry) don't know him,</hi> and ſo teſtifying forward and backward, and at laſt nothing at all, but that <hi>I'ſh am indifferent whether I'ſh be Papiſt or Pro<g ref="char:EOLhyphen"/>teſtant:</hi> If any one doubt this, let him take the pains to turn to it, inſomuch, that the Court, as grave as it was, could hardly contain it ſelf, and tho it was urg'd by them againſt the <hi>Priſoner,</hi> that this their Witneſs they brought for the King had been tamper'd with (which <hi>Plunket</hi> might as well and have better objected) yet it ſhew'd what Cattle they had gotten to<g ref="char:EOLhyphen"/>gether to gore Men, who could teſtify <hi>forward and backward;</hi> and take the Swear, as a Spaniel takes a Stick, according as he is taught and tutor'd. Lewd Iriſh, Popiſh <hi>Prieſt</hi> whom this Ti<g ref="char:EOLhyphen"/>tular <hi>Prelate</hi> for their Immoralities had cenſur'd as himſelf ſaid, and Excommunicated, and it muſt be great Crimes we know that Church won't Abſolve: Here we found the <hi>Maclegh's</hi> and <hi>Phyloneals,</hi> &amp;c. Landing the <hi>French</hi> for him at <hi>Corlingford,</hi> one of the moſt unlikelieſt Ports of <hi>Ireland;</hi> up the <hi>Briſtol</hi> Channel, and dangerous <hi>Iriſh</hi> Sea, quite out of their way, 70000 Men to be ſecretly Rais'd and maintain'd by the Poor Titular Prela<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, with a little bare Suſtſiſtance-Money ſqueez'd from a Parcel of Lowſy, Beggarly, Popiſh, Iriſh Prieſts and Cu<g ref="char:EOLhyphen"/>rates; a Feat not ſo eaſily to be Effected now by the beſt Lieutenant we could ſend thither with the largeſt Commiſſion; and Landing all the <hi>French</hi> Auxiliaries in a ſhallow Water where a Man might as well ſet an Army a ſhore in an Eggſhell, This (to uſe the Priſoner's own words at his Death, would no more have been believ'd by any Proteſtant Jury <hi>Ex vicineto,</hi> (and as by Law and Confeſſion to his Caſe it ought to have been <hi>(i. e.)</hi> upon the place) <hi>tho' himſelf had confeſt it,</hi> than if he had <hi>ſworn he had flew thro' the Air from</hi> Dublin <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o</hi> Holy-head; and if a Man does ſeriouſly conſider it, to give only a matter of a Months or five Weeks time to ſend to <hi>Ireland,</hi> croſs the Sea to ſearch the Record of five or ſix Counties as high as <hi>Ulſter,</hi> to be deny'd them till order from <hi>England,</hi> to return croſs the Seas againſt Wind and Weather, and under the Difficulties that Popiſh Recuſants then eſpecially were in travelling abroad, and then the refuſing but ten days Reſpite when the Witneſſes were on the Road; Certainly
+<pb n="5" facs="tcp:32280:3"/> theſe were no ſuch wonderful Acts of Favour or Juſtice to a Perſon upon his Life, and when all this, after he had been acquitted by a Proteſtant Jury of his own Country, the beſt Judges of the Veracity of the Deponents, the Circumſtances of <hi>Truth,</hi> and Human probability, 'twas hard to be Tried and found Guilty by Forreigners, who from their ſtrangeneſs and diſtance, muſt needs be expos'd to the deluſions of a probable Lye. And had the <hi>angry</hi> Sir <hi>Robert Arkins,</hi> with his un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſy Mr. <hi>Hawles</hi> in their learned Eſſays been but as <hi>impartial</hi> in their <hi>Writing</hi> as they were <hi>Writers</hi> for a Party, certainly this <hi>Trial</hi> alſo, could never have honeſtly eſcapt their Animadverſion. but now the one being a Judge, and the other (as we hear) King's Council, 'tis to be hop'd we may never have occaſion to find fault with any future Trials.</p>
+            <p>When theſe Iriſh Rakehells had almoſt run themſelves out of Breath in running the Popiſh Party into <hi>Newgate,</hi> and out to <hi>Tyburn;</hi> after a little reſt in their Kennels, theſe Hellhounds are out upon the Hunt again, and ſtart another ſort of Iriſh Game, and with full Scent and full Mouths drive about what they call'd the Fanatick Party, that before had drove them on upon Papiſts: And ſo <hi>Colledge</hi> was firſt ſingl'd out among them for a Prey, who had been a buſie Man among them at the ſame Sport; and now like another Action without the help of a Metamorphoſis, came to be devour'd by his own Hounds. A perſon Hot and Cholerick, bold and Turbulent, and being of Natural Parts above his Calling, aſpir'd to Intreagues of State, and concerted Matters of Government with theſe Carrions your Witneſsmongers, and Nar<g ref="char:EOLhyphen"/>rative-men, that made him pay dear at laſt for his Correſpondence. Upon the whole an <hi>ill Man,</hi> tho<g ref="char:punc">▪</g> made a <hi>Martyr,</hi> and from his Principles might probably have juſtified the <hi>Decolla<g ref="char:EOLhyphen"/>tion of King</hi> Charles <hi>tho Firſt</hi> with the Parliamentary Proceedings that occaſion'd; as Mr. <hi>Maſters</hi> ſwore upon him. A Doctrin that in thoſe Days the Court could not digeſt ſo well; General <hi>Ludlow</hi> had not then appear'd in Print; and little was it thought that <hi>Colledge,</hi> that <hi>Stephen</hi> would have come to be a <hi>Martyr</hi> at <hi>VVhite-Hall</hi> inſtead of King <hi>Charles;</hi> However the proceedings againſt him might have been leſs violent, and if the Proof againſt him were not ſo credible; to have pardon'd him after Conviction might have been more plauſible; But that he was to Charge the Guards, Seize the King, kill him with his own Hands, with all the Canting Extravagancies of your <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lrons</hi> and <hi>Mowbrays, Smiths</hi> or <hi>Barrys; Haynes</hi> and <hi>Fitz-Geralds.</hi> His Popiſh Iriſh Beagles that devour'd him. This indeed does not ſeem at firſt ſight ſo plain and conceivable; as plain as it was ſworn.</p>
+            <p>And from this flight of Evidence againſt this Party; let us look a little upon another piece of Witneſſing, as <hi>lame</hi> as the other was <hi>mad;</hi> in this ſelf-ſame <hi>Presbyterian-plot.</hi> The Two Honourable Houſes have ſeem'd ſo much diſſatisfied with ſome of the Evidence that was given againſt the perſons that ſuffer'd for it, as to Repeal ſome of their Attainders, which may be conceiv'd to be a Tacit Conviction of ſome of the Evidence being plainly perjur'd; and in<g ref="char:EOLhyphen"/>deed we muſt acknowledge, that among ſome of theſe Caſes of ſuſpected <hi>Swearing,</hi> Mr. <hi>Cor<g ref="char:EOLhyphen"/>niſh</hi>'s would bear a little <hi>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nvaſſing,</hi>
+            </p>
+            <p>For He, tho' ſeveral times Attack'd for having been preſent at the Conſult, and taken into Cuſtody ſo often, inſomuch that Mr. <hi>Atterb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry</hi> and the Alderman were grown very intimate, ſo far as to be very Jocular and pleaſant with one another upon the repealed occaſions of his coming into Cuſtody, and the Accuſed thought himſelf ſo ſafe or Innocent as to keep the <hi>Ex<g ref="char:EOLhyphen"/>change,</hi> from whence he was at laſt co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n'd for good and all; upon <hi>Goodenough</hi>'s being brought in from the <hi>Weſtern</hi> Inſurrection in an <hi>ill-time</hi> for Him, a Perſon that might be preſum'd to owe him an <hi>Ill-turn,</hi> where yet what he ſwears does not ſeem ſo <hi>Trenſonable</hi> or <hi>True</hi> to have juſti<g ref="char:EOLhyphen"/>fied ſo <hi>precipitous</hi> a Trial: And <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſey</hi>'s having <hi>ſworn</hi> at the Lord <hi>Ruſſel</hi>'s Trial, That he came in himſelf after the Declaration was read, is indeed a Contradiction to his being pre<g ref="char:EOLhyphen"/>ſent at the reading it to <hi>Corniſh,</hi> and his declaring at the ſame Trial, that he knew of no o<g ref="char:EOLhyphen"/>ther Perſon beſides what he had accuſed, and accuſing the Priſoner ſo long after (under fa<g ref="char:EOLhyphen"/>vour) will not be excus'd from <hi>wilful Perjury</hi> from a deſire he had of <hi>favouring</hi> the Priſoner;
+<pb n="6" facs="tcp:32280:4"/> for If he had perjur'd himſelf to ſave Him, as he very fairly tells the Court; the Judges ſure ought to have judg'd him a leſs credible Evidence to hang him: And tho' the Print might have paſt had they been pleas'd, yet the Record of the Trial which he ought to had time to produce muſt have been manifeſt proof of the <hi>Perjury:</hi> and Mr. <hi>Shepherd</hi>'s denying abſolute<g ref="char:EOLhyphen"/>ly his being of the Conſult; denying utterly <hi>that he held the Candle,</hi> which yet the Evidence <hi>circumſtantially ſwore</hi> was as much as could be offer'd to the making him <hi>forſworn;</hi> or be brought an <hi>Evidence</hi> that is not upon his <hi>Oath;</hi> unleſs we could imagin that <hi>Rumſey</hi> was more ſenſible of the <hi>holding</hi> the <hi>Candle,</hi> than <hi>Shepherd</hi> that he <hi>ſwore</hi> did <hi>hold</hi> it; and from this un<g ref="char:EOLhyphen"/>happy Man's Caſe perhaps it might well become the Wiſdom of a Parliament, to add to thoſe wiſe <hi>Laws</hi> we have already (eſpecially as we ſhall ſhew there is no Law againſt it) That ad<g ref="char:EOLhyphen"/>vantageous one to the Lives of the Subject; to have <hi>his</hi> Evidence <hi>ſworn</hi> as well as the <hi>King</hi>'s, that it may have its due weight with a <hi>Jury,</hi> and not be born down, by the downright <hi>ſwear<g ref="char:EOLhyphen"/>ing</hi> of another.</p>
+         </div>
+         <div type="part">
+            <opener>
+               <salute>My Lords and Gentlemen:</salute>
+            </opener>
+            <p>We would do Juſtice to all People and Parties, as it is from <hi>You</hi> the Nation in this Weighty Point (no leſs than Life and Death) does expect it.</p>
+            <p>Come we now to that other Party of the <hi>Church of England Men;</hi> among whom the <hi>Jac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bites</hi> and <hi>Nonjurors,</hi> who (we don't know upon what ſecret Conſiderations) look upon them<g ref="char:EOLhyphen"/>ſelves the <hi>purer</hi> Part of it, and almoſt all the poor <hi>Remnant</hi> God has left of the <hi>Church of England;</hi> We promis'd you to ſhew how Hanging and Swearing has gone fairly the Round; and now you are come to ſee <hi>How every Dog has his Day, tho it be to die in a Halter;</hi> and one would think it ſhould be time now to compound and agree upon the Matter among our ſelves who have one after another gone all the ſame way, if we muſt again take another <hi>Turn,</hi> and go the <hi>Round,</hi> and ſome of this or that ſort be ſingl'd out to die; <hi>Decim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion, Martial Diſcipline,</hi> will do better than ſuch Mockerys of <hi>Judicial</hi> proceſs, attended with a <hi>Force</hi> of ſuch flagitious <hi>Evidence:</hi> The <hi>Dice</hi> and the <hi>Drum</hi> will better befit the Cauſe on ſuch a <hi>Stage of Juſtice,</hi> than a formal Tribunal, and then the Priſoner will be ſure to have a <hi>Caſt</hi> for his <hi>Life,</hi> or if ſuch <hi>bloody</hi> Villains are worthy of their Salaries, <hi>Butchers</hi> will have a better Right to put in for their <hi>Penſions,</hi> and then <hi>Service</hi> need not be ſo <hi>ſecret:</hi> We have ſeen Gentlemen what <hi>Iriſh E<g ref="char:EOLhyphen"/>vidence have done;</hi> we had no need certainly of more Cunning, and falſe ones to come from the <hi>Scotch</hi> to try what finer Feats your <hi>Lunts</hi> and <hi>Loons</hi> could do; and how the <hi>Mac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s and <hi>Teagues</hi> could be out-done.</p>
+            <p>But yet let us ſee what a new Set of <hi>Harpys</hi> would have done, had not the Almighty been the <hi>only Hercules</hi> to <hi>ſubdue</hi> theſe <hi>Monſters;</hi> and certainly no Animal has a greater Agreeable<g ref="char:EOLhyphen"/>neſs to theſe Creatures than thoſe Birds of Prey, who not only come to defile thoſe <hi>Tables</hi> that feed them, but <hi>devour</hi> thoſe that give them <hi>Bread.</hi>
+            </p>
+            <p>Pardon Gentlemen this Intemperate Zeal ſince deſign'd for Your own Safeties, and the Ser<g ref="char:EOLhyphen"/>vice of the Publick; 'tis time to look to this Impending Miſchief, High time for your Selves to do it, if you value not only Your Liberties of Debate but Your Lives, by which all our Liberties are aſſerted; For ſuch Helliſh Plots can as infallibly blow up an Houſe of Lords or Commons, as ever could <hi>Guide Fauxe,</hi> or the <hi>Gunpowder;</hi> and let theſe forewarn You, as much as the Letter to the Lord <hi>Monteague;</hi> for 'tis but ſuch <hi>Varlets</hi> conſpiring againſt ſo ma<g ref="char:EOLhyphen"/>ny Members, and the moſt Eminent Patriots are at the mer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of theſe Cannibals: 'Tis well known how the Parliament in the late Reigns was Alarm'd with the myſteries of the <hi>Meal-Tub,</hi> and the unintelligible Plot of that <hi>Iriſh Harpy, Fitz Harris:</hi> And pardon us again, if we put you in mind that the ſame ſort of <hi>Vultures</hi> have taken a flight not long ſince at the ſame <hi>Quarry;</hi> and if thoſe <hi>Members</hi> on whom <hi>Young</hi> made his villanous Attempt, do not move vi<g ref="char:EOLhyphen"/>gorouſly for the Detecting the Depth of his villany, and for Enacting ſuch Laws as may terrify ſuch V<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lains<g ref="char:punc">▪</g> they are unworthy of that Mercy by which they are preſerv'd, and Contemners of that Providence they ought to Adore: The B. of <hi>Rocheſter,</hi> Earl of <hi>Marlebourough,</hi> Lord
+<pb n="7" facs="tcp:32280:4"/> 
+               <hi>Cornbury,</hi> Sir <hi>Baſil Firebraſs,</hi> are all Members, as we think, that make a part of each Houſe in Parliament; Let them Remember the <hi>Flowre-Plot,</hi> that ought to <hi>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ink</hi> in the <hi>Noſtrils</hi> of the <hi>Nation;</hi> and as <hi>little</hi> as it looks, is deeper than the <hi>Meal-Tub,</hi> Let theſe Gentlemen be glad they are alive, Give God the Glory, And keep each Man his Anniverſary; and if they do not now look to preſerve others; they do not deſerve his Favour by whom they now <hi>live, move and have their Being,</hi> but to take them in their Order.</p>
+            <p>The Plot of that <hi>Infamous</hi> and Flagitious Fellow, <hi>Fuller</hi> (pardon us if we give him his Title, from a Vote of the Houſe) is no ſtranger to your Walls; and how many of Quality and Virtue he would have ſingl'd out, and that perhaps among Your ſelves, is yet unknown; Give but once half the Encouragement for the finding out theſe Rogueries that they have for carrying them on, and You'll find this Confederate Evidence as ready to hang their Benefactors; and 'tis a Blot upon the Honour of the Nation not to do it; And to the Honour of both Houſes be it ſpoken, after this infamous Wretch had fill'd the Parliament and the Nation with the Noiſe of a Plot, which then was Forming its ſelf in the Clouds, the black Forgery of it was by Your ſifting Sagacity, and prudential Enquiries ſoon diſcover'd, and the perfidious Fellow by Your Juſtice Order'd to be proſecuted, but unleſs the Foſterers of theſe Vipers are found out, and ſome other Puniſhment than the Pillory (which is only putting ſuch a Snake to peep thro' a Hedge) We warm that in our Boſom that will certainly ſting us to Death.</p>
+            <p>As this was a Plot in <hi>Embrio</hi> we miſcarried of, come we next, Gentlemen, to another of the kind, but more Enormous Villany; midwif'd into the World at its full Time; but as God would have it, Dead-born. The <hi>Bromley</hi> Aſſociation, Had my late Lord of <hi>Shaftsbury</hi> been another ſuch, 'tis to be hoped we might have had better Laws before now againſt ſuch Trea<g ref="char:EOLhyphen"/>cherous Conſpiracies. Conſider, Gentlemen, if not our Caſes, yet your Own, and by ſome ſevere Sanctions preſerve Your ſelves againſt this ſo Sacrilegious a Sin as <hi>Wilful Perjury,</hi> that robs God of his Honour, and Men of their Lives; Conſider in this Caſe before You Three Temporal Lords, and Two Spiritual in all, Five Lords, and Two Commoners; (and the ſame Hand, had it not been ſpy'd, might have Aſſociated ſo many more Hands) brought in the greateſt peril of their Lives, and what they had actually loſt, had not providence viſibly in<g ref="char:EOLhyphen"/>terpos'd) by the Machination of a couple of Varlets and Diabolical Conſpirators; that ſince <hi>Judas</hi> his days never had their Equals, and which <hi>Pror<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tyne</hi> and <hi>Pſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udo</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (bating but the preciouſneſs of that Life againſt which he Conſpir'd) Theſe Villains have tranſcend<g ref="char:EOLhyphen"/>ed, for that Primitive Apoſtolick Witneſs had ſome Remorſe with him, confeſt he had <hi>ſinned in betraying Inncent Blood; brought again the pieces of Silver, and went and hang'd himſelf,</hi> to ſhew to Poſterity (that tho the <hi>Sanhedrim</hi> ſaid, they had nothing <hi>to do with That,</hi> or what is that to us) yet before <hi>God the Price of Blood,</hi> the ſelling of <hi>Innocent Blood, is DEATH;</hi> who for want of better Juſtice on Earth made the Wretch his own Executioner; So that God in this very Inſtance has made it <hi>capital</hi> by the Evangelical Law as well as the Moſaical;) But our <hi>Young Judas</hi> here ſo far from <hi>Repentance,</hi> that after the cleareſt proof of the blackeſt Contrivance, the obſtinate Rogue perſeveres in his Villany; and after he was loſt in his Blockhead, ſuborns an <hi>Holland</hi> and a <hi>Lawe</hi> to defend a detected Impoſture.</p>
+            <p>The Villany of this hom'd Contrivance, and the infamy of the Perſon, that coin'd it on, is ſufficiently ſet forth by the Book of the Biſhops; and 'tis no ſuch pleaſant employment for us to take Hell again and the Kennel, and had that <hi>forg'd Aſſociation</hi> been lodg'd in any other <hi>Flowre-Plot</hi> but where it was, the Meſſengers being directed, muſt certainly have found and met with it. And the miſerable Gentlemen been as infallibly <hi>loſt,</hi> and the interpoſition of Providence very obſervable to turn their very <hi>Expoſing</hi> it in ſo publick a place as an open Hall to the very means of <hi>concealing</hi> it from the Searcher's <hi>Hands.</hi> But after all that fervent <hi>Appeal</hi> of the Innocent Prelate in behalf of himſelf and Fellow-ſufferers; for Juſtice and Pro<g ref="char:EOLhyphen"/>ſecution, for Enacting adequate puniſhments (if it were poſſible) to ſuch impropor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ionable
+<pb n="8" facs="tcp:32280:5"/> Crimes, are not both theſe Vipers ſuffer'd to eſcape, <hi>Young</hi> only like an harmleſs <hi>Robin</hi> or <hi>Red Breaſt,</hi> with a Paper Ruff about his Neck, or wooden one, and <hi>Blackhead</hi> without the leaſt Puniſhment at all; we have that veneration for our Court and Miniſtry, as not to think them concern'd in ſuch unconſcionable Proceedings; yet it will make ſome ſeverer Animadverters apt to reflect upon <hi>Robert Young</hi>'s being known to be ſuch a <hi>very Rogue</hi> for ſix months, for an half Year <hi>before,</hi> and yet his flagitious Forgery to be ſo ea<g ref="char:EOLhyphen"/>ſily entertained, ſo long after; and it might (on this moſt horrid Roguery; been expected from our Government that pretend to unravel the Myſteries of the Laſt and rectify its irregu<g ref="char:EOLhyphen"/>larities; that ſuch a Perjury and Forgery ſhould have been as ſeverely proſecuted as any of thoſe Crimes were in the Reign of King <hi>James;</hi> We mean nothing leſs than <hi>Oats</hi>'s Diſcipline upon his Recorded Conviction, let each one judge of that according as he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ancies his Suffer<g ref="char:EOLhyphen"/>ings either the Reſentment of the Court, or the Juſtice of the Cauſe; We wiſh we could but have ſeen that Juſtice done on theſe Goal<g ref="char:punc">▪</g> Birds that was ſhewn in that ſo blemiſht Reign of King <hi>James,</hi> on a leſs Enormous Malefactor, both Houſes of Parliament, to whom we appeal were all <hi>Wetneſſes</hi> too of <hi>Sh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xton,</hi>s confuted Evidence on the Trial of the late Lord <hi>Dellamere,</hi> and all the Town can <hi>Witneſs</hi> he was ſcourg'd for it beyond <hi>T.</hi> O. tho <hi>ſhort</hi> of Tyburn, and of which if he was not, we are ſure he was reported Dead.</p>
+            <p>The <hi>ſecurity</hi> indeed of the Diſcipline ſhews that the deſign was not ſo deeply laid among the <hi>Great,</hi> or elſe this <hi>Little</hi> fellow durſt not have been ſo <hi>ſever<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</hi> handl'd; what may be gather'd from the <hi>gentle</hi> treatment of theſe more wicked varlets, we leave to the wiſdom of the Higheſt Court to determine:</p>
+            <p>And one would have thought that after <hi>Hell</hi> having broke looſe, and ſo many Innocent Souls preſerv'd by the meer providence of <hi>Heaven,</hi> ſome courſe ſhould have been taken to <hi>ſhut thoſe Gates of Hell;</hi> that they might never again have been <hi>able to prevail;</hi> or theſe <hi>Devils;</hi> to have been ſo far <hi>muzzel'd</hi> that they might not thus gone about ſeeking <hi>whom</hi> they might <hi>de<g ref="char:EOLhyphen"/>vour,</hi> but alas to our ſhame, and the Reproach of the Nation and Chriſtianity; (which ſhould it be <hi>told</hi> in <hi>Gath,</hi> and <hi>publiſh'd</hi> in <hi>the Streets</hi> of <hi>Askalon, would</hi> make the <hi>Philiſtians rejoyce,</hi> and the <hi>uncircumciſed Trimph;</hi> Turks Tartars and Mahometans take us to have been bred on the Coaſts of <hi>Barbary)</hi> The Animadverſion on theſe Villains has been ſo much Neg<g ref="char:EOLhyphen"/>leg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted. That another, the very Cub of the ſame Dam has been Midwif'd into the World in LANCASHIRE; That if all the Witches that County is ſaid to have produc'd, had met in Conſult for the deſtroying of Innocent perſons; they could never have thought upon a more malicious or murderous Invention, As firſt an <hi>Eſſay</hi> to the ſwearing ſo many ſubſtantial perſons out of their Eſtates for the falſe Alienations of their Lands, and when that myſtery of Iniquity was laid open, to attempt <hi>their Lives</hi> and <hi>Eſtates together.</hi>
+            </p>
+            <p>'Tis hard that thoſe that are <hi>Sequeſter'd</hi> to the <hi>Government,</hi> ſhould not be ſuffer'd ſo <hi>much</hi> as to <hi>Live;</hi> We are loath to ſay, had their <hi>Lives</hi> been <hi>loſt</hi> where the blood muſt have layn; and their Death had been unavoidable, had not the poor Gentlemen been able to deſcribe the <hi>Hue</hi> and <hi>Shape</hi> of theſe Monſters, and we hope it may Come to Light who lick't them into <hi>Evidence,</hi> 
+               <note n="*" place="margin">
+                  <hi>Vid.</hi> Albert Gent. <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Uni<g ref="char:EOLhyphen"/>verſitas negligit Emendare illaqueat ipſaſe:</hi> Grot<g ref="char:punc">▪</g> 
+                  <hi>de J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Belli. Z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uch de Jure feci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le</hi> Part. 2<hi>d.</hi>
+               </note> 
+               <hi>Qui non prohibent Jubent, &amp; Tenentur,</hi> is a Maxim in the Civil-Law, In our own Law, and in the Law of God;</p>
+            <p>There was notice enough given of this profligate Evidence in <hi>Print,</hi> that our Miniſters needed not have diſparag'd the Good Government ſo much by bringing them on the Stage, but fince ſo many Innocent Subjects are brought in Jeopardy of their Lives, It is but fit ſuch a Villanous affair be brought before a Parliament, <g ref="char:punc">▪</g>Tis the <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnier Reſort,</hi> the laſt Refuge Engliſhmen have when their Lives and Eſtates are both ſo barbarouſly Invaded; and how out <hi>True Punys</hi> and <hi>Empericks</hi> in the Poli<g ref="char:EOLhyphen"/>ticks come to be ſo f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r infatuated; after ſo ſignal a Defeat at <hi>Bromley,</hi> to ſet up their <hi>Stage</hi> again at <hi>Manc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> is as amazing as the Horrid Perjury of their Knights of the Poſt, who
+<pb n="9" facs="tcp:32280:5"/> have nothing to match <hi>Theirs;</hi> but the <hi>Confidence</hi> of thoſe <hi>Mountebanks,</hi> who; after they have <hi>Notoriouſly</hi> kill'd in <hi>one</hi> place, yet <hi>Impudently</hi> ſet up in <hi>Another.</hi>
+            </p>
+            <p>We can't but look upon this peſtilent pack of <hi>ſetters</hi> (for whom we ought to <hi>ſet</hi> Ginns and Traps, as they do for Vermin and Polecats) to be but a ſort of BARRETERS for the Publick, to ſet the Government and its Subjects in perpetual Animoſities, while they Run a<g ref="char:EOLhyphen"/>way with the Moneys of <hi>Both;</hi> And defame the Government more than a Common one does the Country Corporation in which he reſides; and ſince the <note n="*" place="margin">
+                  <hi>Vid</hi> Coke 1. <hi>&amp;</hi> 3d <hi>Inſt.</hi> c Bar. 78.</note> Law where it only related to Litigiouſneſs is ſo ſevere, what ought it to be where Life and Eſtates are thus <hi>Barrated</hi> away to the ſhame of the Commonwealth, and Common Chriſtianity.</p>
+            <p>If our Miniſters are touch't with Remorſe for what is done, or what by Flagitious perſons has been impos'd upon them; let the Innocency of the Arraign'd make as great a Noiſe as their Plot, and their deliverance be publiſht as lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in their Gazetts as would have been their Con<g ref="char:EOLhyphen"/>viction. And 'tis to be hop'd that their Judges who ſome of them have had the Reputation of <hi>Learn<g ref="char:EOLhyphen"/>ing</hi> and Loyalty will ſecure ſome of theſe Ruffians; for his Majeſties Service, and the Repu<g ref="char:EOLunhyphen"/>tation of our Laws and Conſtitution, as the beſt means to make amends for the Diſſervice that is done him in his Abſence.</p>
+         </div>
+         <div type="part">
+            <opener>
+               <salute>My Lords and Gentlemen.</salute>
+            </opener>
+            <p>THE Manner of this ſecond or third Eſſay to Judicial murder muſt all come before you, of which you are to take Notice as you will anſwer it to thoſe <hi>Powers</hi> upon which the Priſ<g ref="char:EOLhyphen"/>oners Put themſelves to be try'd, That is, <hi>God and the Country;</hi> and where they prov'd ſuch a Vil<g ref="char:EOLhyphen"/>lanous Conſpiracy for taking away their Lives, even to the Aſtoniſhment of Judges and Jury, and ſatisfaction of all good men preſent, who to their Immortal Honour partook in their ſo ſignal a deliverance; That nothing leſs than a publick Act of Terror and <hi>Infamy</hi> can be paſt upon the Conſpirators, unleſs we have a mind to defame the Conſtitution.</p>
+            <p>Conſider but the Creatures that Crawl'd into Court to commit Murder in the very face of it; and the Reſt of the Cabal that would have appear'd, but being Characteriz'd, or more cunning, kept behind the Curtain.</p>
+            <p>In the firſt place your <hi>Dandys</hi> muſt <hi>appear,</hi> one that has given the Papiſts an occaſion to value him for his Apoſtacy (that honor'd their Church by relinquiſhing it, to Diſgrace ours by his Converſion; and after this piece of ſervice, it would be well if we could return Him; and juſt ſo were we credited by our Converts before in the former Plots: and ſhould they ſerve their Setters as their predeceſſors did <hi>Colledge,</hi> and ſome others, who can help it?</p>
+            <p>In the next place, [that Prieſt of all Religions,] (which God forbid) would be the ſame; Comes in one <hi>Kingſton</hi> a ſtancht Church of <hi>England</hi> Divine, whom in kindneſs (ſince <hi>Dandy</hi> comes over to us) we ought to ſend to them; In a word, the very Counterparl of <hi>Robert Young;</hi> Forging ſacrilegiouſly his own ſacred Orders, prov'd from the Regiſtry at <hi>Briſtol</hi>'s one of <hi>Ro<g ref="char:EOLhyphen"/>bert</hi>'s Brethren in Poligamy, and if Sir <hi>S. A.</hi> be to be believ'd, The Bankers in <hi>Lombard<g ref="char:EOLhyphen"/>ſtreet</hi> will as ſoon truſt <hi>Robert</hi> with their Caſh, as the Banker of the <hi>Kings-Bench</hi> will <hi>Kingſton</hi> with his Coin. And after theſe Defeats, ſhould this <hi>bleſſed</hi> Pair meet in Conſult or <hi>Partner<g ref="char:EOLhyphen"/>ſhip,</hi> their Joint-Stock is enough to break the Nation.</p>
+            <p>In the next place we come to our <hi>Lunts</hi> the lag Poligamiſt, Couſingerman to the two <hi>Spiritu<g ref="char:EOLhyphen"/>al</hi> ones, a lowſy diſcarded Coachman; with your <hi>Ombrals</hi> or <hi>Whombrals,</hi> a Raſcally Car<g ref="char:EOLhyphen"/>rier; both Carrier and Coachman all driving to the Devil, whom yet the Devil drove: Let but one of theſe <hi>Scotch</hi> Evidence (as ſome of thom are ſaid to be) but feel a little of their own <hi>Bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> or <hi>Thumkin,</hi> The <hi>Deel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> will they or their <hi>Iriſh</hi> Aſſociates <hi>take</hi> the <hi>Swear</hi> again in <hi>England,</hi> and what will be an infallible way to ſqueeze out of their <hi>Knuckles</hi> and <hi>Fingers ends</hi> the <hi>bottom</hi> of all the Villany, and the <hi>Top</hi> of all their Accomplices; ſuch a Scottiſh <hi>Boot</hi> will
+<pb n="10" facs="tcp:32280:6"/> very well become the Evidence that carried off one of the Gentlemen's Gold in the Leathers of his <hi>own.</hi> And the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>humkin</hi> a proper Inſtrument for the Fingers of a Prieſt that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orges Or<g ref="char:EOLhyphen"/>ders; and I hope it is time to make Wretches know themſelves, that ſwear againſt thoſe they do not <hi>know;</hi> and ſo let theſe be the <hi>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt</hi> of ſuch execrable Villains that are not <hi>hang'd.</hi>
+            </p>
+            <p>Let it be but conſider'd what a <hi>Tool</hi> ſuch a Fellow as <hi>Lunt</hi> was to go to <hi>work</hi> withal for the taking away Lives; Lives of Value, by his moſt contemptible Breath; And 'tis to be hop'd his Confederates have <hi>burnt</hi> their <hi>Fingers,</hi> now they have found their principal Evidence <hi>burnt</hi> in the <hi>Hand;</hi> branded upon the Record of the Court for ſtealing of Bullocks, prov'd <hi>ex con<g ref="char:EOLhyphen"/>feſſo</hi> to have Robb'd on the High-way, Indicted for having two <hi>Wives,</hi> and what never yet was heard or ſeen in a Court of Judicature; Evidence that came to ſwear High Treaſon againſt a Perſon he had never ſeen in his Life, nor ſo much as knew from all the reſt that was in Court, I think the Villain <hi>Lunt</hi> has outdone what no perſon of probity ever thought on this ſide Hell could have been ſo much as match't <hi>Blackhead</hi> and <hi>Young,</hi> who never pretended to ſwear be<g ref="char:EOLhyphen"/>fore they were acquainted not only with the <hi>Phys</hi> and Faces of the perſons, but alſo their <hi>Hands</hi> and <hi>Writings;</hi> whereas this audacious Varlet ſwearing he deliver'd Commiſſions <hi>ſeve<g ref="char:EOLhyphen"/>rally</hi> to theſe Gentlemen at the Bar, they <hi>ſeverally</hi> Read them; that they <hi>ſeverally</hi> gave him Five pounds apiece; yet being order'd with one of the <hi>white Rods</hi> in Court to point at Sir <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<g ref="char:EOLhyphen"/>land Stanley,</hi> very fairly ſingles out Sir <hi>VVill Clift<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and this a Blunder at <hi>Noonday;</hi> and not like <hi>Oats</hi> to be excus'd by <hi>Candlelight:</hi> 'Tis pity but ſuch a Rogue ſhould meet with his <hi>Rowland</hi> for his <hi>Oliver,</hi> for we dare be bold to affirm, that ſince that Uſurper's Days there were never ſuch horrid Conſpiracies form'd for the taking away Lives; and <hi>VVilſon</hi> prov'd to have receiv'd the ready <hi>Rano Money</hi> for encouragement; certainly if piety and Juſtice are not Abdicated too, <hi>The VVages of this Sin ought to be Death.</hi>
+            </p>
+            <p>The Threatnings of <hi>Brereton</hi> to have the Lives of ſome of the Priſoners prov'd in open Court; a moſt fervical way of Revenge; A Stilleto of Poneyard might have done as well; but the Devil ow'd the Evidence a Spite, and ſo tempted him to add <hi>Porjury</hi> to his <hi>Murder.</hi>
+            </p>
+            <p>After all to clinch cloſe the Nails in this murderous Machine improv'd beyond all what the War has yet produc'd, was provided a Gentleman called <hi>Taff,</hi> who was as ready to have ſworn himſelf the Count of that Name, but that <hi>Vienna</hi> was little too far off from <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncheſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r;</hi> but here True <hi>Teague</hi> appear'd; for with his working and witneſſing after his <hi>Iriſh</hi> way, all the Myſtery of Iniquity came out, and the moſt horrid Conſpiracy to Sacrifice ſo many Inno<g ref="char:EOLhyphen"/>cent Souls to the Amazement as well as Reſentment of the whole Court and Country, Inſo<g ref="char:EOLhyphen"/>much, that even <hi>Aaron Smith,</hi> that <hi>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>perienc'd Muſter-Maſter</hi> of <hi>Plot</hi> and <hi>Affidavit,</hi> that un<g ref="char:EOLhyphen"/>derſtands, we are ſure, what it is to <hi>ſwear</hi> and be <hi>ſworn</hi> againſt, and all that relates to <hi>Popiſh, Iriſh</hi> Evidence and Conſpiracy, was aſtoniſht at his flight, and ſublime. So tranſcending all the former Villanies he had ſeen; (or to his honour been concern'd in, and (to ſupercede even the ſhamming the Diſcovery.) All this deep Deſign laid ſo open as thoſe Graves they had digg'd for the Priſoners, and ſo <hi>black</hi> as that Hell which gapes for the Evidence.</p>
+         </div>
+         <div type="part">
+            <opener>
+               <salute>My Lords and Gentlemen:</salute>
+            </opener>
+            <p>VVE have laid before You a great deal of horrid Fact, but yet no more than what is Matter of Record, and what every Member of You will find verified beyond Contradiction, and all the Aggravations we can uſe, can never repreſent theſe Villanies more odious than they are to God, and ſhould be ſo to all Men; and therefore 'tis time to ſhow here how by the Laws of God and Man they are to be puniſhed.</p>
+            <p>
+               <hi>Firſt</hi> for the Warrant from the Law of God, we need not go ſo far from the Text as to Ap<g ref="char:EOLhyphen"/>peal to the Dialogue, and God's Expreſs Command in the caſe of Murder; <hi>That he that ſhed<g ref="char:EOLhyphen"/>deth Man's Blood, by Man ſhall his Blood be ſhed;</hi> and (again in another place) <hi>He ſhall ſure<g ref="char:EOLhyphen"/>ly be put to Death;</hi> Tho' indeed this way of <hi>killing</hi> is not ſo wide from downright <hi>Murder;</hi> and only more propenſe and malicious, which our own Laws have the greateſt regard to puniſh,
+<pb n="11" facs="tcp:32280:6"/> but God expreſly commanded the <note n="*" place="margin">Deut. 19. 18. 19. <hi>&amp;c.</hi>
+               </note> 
+               <hi>Jews</hi> in theſe words: <hi>That their Judges ſhould make dili<g ref="char:EOLhyphen"/>gent Inquiſition,</hi> and if <hi>the Witneſs be a falſe Witneſs against his Brother, then ſhalt thou do unto him, as he had thought to have done unto his Brother, thy eye ſhall not pity him, Life ſhall go for Life, Eye for Eye, Tooth for tooth,</hi> &amp;c. and in another place <note n="†" place="margin">Prov. 19. 9.</note> 
+               <hi>Falſe Witneſs ſhall not be unpuniſh'd, and he that ſweareth Lyes ſhall periſh:</hi> But to go further yet with God's Judgment more ſeverely denounc'd againſt ſuch Reprobates Equivalent to the <hi>Romans Julian</hi> Law in puniſhing of <hi>Regicides</hi> by rooting out the whole Houſe and Family, and who till the <hi>Lex Poma</hi> a long time had no Law for that ſo unnatural a Crime of <hi>Para<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ides,</hi> becauſe they thought could not enter into Man's Heart to commit it, and I could wiſh that had perjury been the Reaſon, and no State Policy, that we have wanted a new Act ſo long for Perjury; but as the <hi>Romans</hi> or<g ref="char:EOLhyphen"/>dain'd in Regicide, ſo has God alſo denounc'd in this Fratricide, and even in leſs heinous Perjury, if it has any Gradations; for by the Curſe of the <note n="*" place="margin">
+                  <hi>Zach.</hi> v. 4.</note> fly<g ref="char:EOLhyphen"/>ing Roll he has pronounc'd the Deſtruction of the whole Houſe and Family<g ref="char:punc">▪</g> and declar'd, that it ſhall <hi>enter into the Houſe of him that ſweareth falſly<g ref="char:punc">▪</g>
+               </hi> and <hi>ſhall con<g ref="char:EOLhyphen"/>ſume with the Timber and very Stones thereof;</hi> and that this Capital Puniſhment was inflicted on theſe perjurious Offenders as well as denounc'd, we need go no further than that well known Story of <hi>Suſanah,</hi> and her two Perjur'd Elders, There was what our Law calls a Villanous Conſpiracy, and deſerves, as my Lord <note n="†" place="margin">
+                  <hi>Coke</hi> 3 <hi>Inſtit.</hi> 66.</note> 
+               <hi>Coke</hi> explains it, a villanous Judgment, and we think that ought to be to forfeit their Lives; and the beſt Reports are to be read in holy Writ: and 'tis here in this Caſe you find that as ſoon as they were Convicted, the Text tells us, according to the <hi>Law of God and Mo<g ref="char:EOLhyphen"/>ſes, they put them to death;</hi> and 'tis plain God has interpoſed in our late Diſcoveries, as once he did by his Servant <hi>Daniel</hi> from the Holy Writ; let us but have recourſe to prophane Hi<g ref="char:EOLhyphen"/>ſtory, for Parallel to God's Curſe upon the Houſe and Family for this crying Sin, the Story of <hi>Glaucus</hi> the <hi>Lacedemenian;</hi> recorded by <note n="†" place="margin">
+                  <hi>Her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi> lib. 6.</note> 
+               <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rodotus,</hi> to ſhow what regard was to be had even among Heathens to what they ſwore, and what diſmal Puniſhment attended their Perjury) for he having only a deſign to <hi>forſwear</hi> a <hi>ſumm</hi> of Money that was depoſited in his hands, yet had ſo much Conſcience as to Conſult the Oracle before he committed the ſin, and was told by it what he was to expect, To be Conſum'd, him and his Poſterity; and tho' he departed the Judgment as having only intentionally Committed the Crime, how<g ref="char:EOLhyphen"/>ever the Vengeance of God fell upon him, and He and his <hi>Posterity Periſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi>
+            </p>
+            <p>And now let us but look into the Law of other Nations, and next caſt back our Eye upon what was our own.</p>
+            <p>By the <hi>Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Remnia</hi> Among the <hi>Romans</hi> a Common Calumniator or falſe Accuſer in ordi<g ref="char:EOLhyphen"/>nary Caſes, had firſt the To<g ref="char:punc">▪</g> K in the Greek Capital burnt in his forehead, a little more ſevere than our Paper Kite that is put upon our <hi>Prances</hi> or our <hi>Youngs</hi> in <hi>Weſtminſter-Hall</hi> or the Pillory; and beſides the Identity of puniſhment, that the party muſt have ſuffer'd by his Perjury, was alſo inflicted and this appears from their Imperial <note n="*" place="margin">So <hi>Vid.</hi> Prov. 19. 9. Zach. v. iv<g ref="char:punc">▪</g>
+               </note> Law, and will be all good mens wiſhes to ſee it among our Acts of Parliament, And by their <hi>Lex Cornelia</hi> made by that famous Dictator <hi>Cornelius Sylla,</hi> Their <hi>Judicium Falſi,</hi> 
+               <note n="*" place="margin">
+                  <hi>D.</hi> 48. 161. c. 9. 46. 6.</note> For forg'd Atteſt<g ref="char:EOLhyphen"/>ations, or forg'd Aſſociations (tho' they did not tend to the taking a<g ref="char:EOLhyphen"/>way lives) was very fearful, for by that the offender convicted of any ſuch Inſtrument of forgery; was to ſuffer Deportation, and their Pub<g ref="char:EOLhyphen"/>lication of all their Goods; and if perpetrated by a Servant or Slave, to be condemn'd to their <hi>ultimum ſupplicium,</hi> that is to loſe his life; and ſomtimes made Capi<g ref="char:EOLhyphen"/>tal in thoſe that were Free; and with the <note n="*" place="margin">Inſtit <hi>lib.</hi> 1. <hi>Tit.</hi> 18. <hi>D.</hi> 4 8. 10. 4. C. <hi>de. falſis. l. ubi. b.</hi> 4. 8. 10. 1.</note> ſame puniſhment did they proſecute your <hi>Willſons</hi>
+               <pb n="12" facs="tcp:32280:7"/> as well as <hi>Youngs,</hi> that had <hi>received</hi> any bribe for their evidence, and money for their Teſti<g ref="char:EOLhyphen"/>mony, and what aggravates the defects of our Laws as vainly as they are ulcerated, theſe ſeverities or juſt Retaliation, were inflicted in Civil matters; and in Criminal ones the Per<g ref="char:EOLhyphen"/>jury always puniſh't with the ſame Death and Torment the I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nocent was to have ſuffer'd, and then we are ſure their Puniſhment of <hi>Laeſae Majestatis</hi> was equally terrible to that of our High Treaſon, and extended formerly even to the <note n="*" place="margin">C. 9. 8. 5.</note> Children, and Servants of the Conſpirators, tho never ſo innocent: And theſe Judgments were alſo confirm'd by their <hi>lex Tali<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes,</hi> in which the Law of God ſeem'd to be Copied out of <hi>Deter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nomy, Eye for Eye, Tooth for Tooth.</hi>
+            </p>
+            <p>Theſe Gentlemen, were the Laws made by a wiſe and flouriſhing Republick, and Collected in a Body, by a Renowned Emperor eſteemed the Juſteſt Legiſlator; by which thoſe Laws of <hi>Solon</hi> himſelf might ſeem to be out done, and <hi>Rome</hi> in Juſtice as well as Glory to have tranſcend<g ref="char:EOLhyphen"/>ed <hi>Athens</hi> and <hi>Lacedemon,</hi> and it was theſe Laws that made them Victorious abroad, ſafe and eaſie at home; and Theſe eſteemed ſo Juſt and equitable that even ſince moſt part, (we may add all the Chriſtian World beſide our ſelves are govern'd by them; nay our own King<g ref="char:EOLhyphen"/>dom was; and <hi>Scotland</hi> that is under the Dominion of our own Prince, as we ſhall ſhew, is ſtill governed and guided in this point by the ſame Antient and Equitable Laws; and if any of theſe Conſpirators be Scottiſh Cattel of the <hi>Iriſh</hi> kind, let them in Gods name ſwear up Plots and forſwear them in their own Country where they may be deſervedly hang'd after they are damnably perjur'd, and not bring true Engliſhmen to be try'd for their Lives by a parcel of falſe Loons that have abandon'd God, as well as God their Country; The only Good they have left in it being theſe good Laws by which ſuch forſworn Varlets are to be puniſh't: and that not only by thoſe Civil Inſtitutions of the <hi>Roman</hi> and Imperial Law we have cited (which with them take place where their own Municiple ones are de<g ref="char:EOLhyphen"/>fective,) but alſo by their very Parliamentary Acts and Conſti<g ref="char:EOLhyphen"/>tutions, and particularly by one of <note n="*" place="margin">
+                  <hi>Vid. Jac.</hi> 6. p. 1. c. 49.</note> King <hi>James</hi> the 6<hi>th.</hi> where he that Calum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates any one of High Treaſon, and the party acquited, incurs the ſame <note n="*" place="margin">Vid. lib. cui. Tit. Reg. major.</note> Puniſhment the preſumed Gullty muſt have undergone, had he made good his proof.</p>
+            <p>And now in the next and laſt place, let us come to our own <hi>Legiſlative;</hi> and 'tis well known, eſpecially to this High Court of Parliament compos'd of ſo much Law and Learning, that antiently, <hi>and before the Conqueſt,</hi> by our own Laws <hi>Perjury</hi> (tho it were not in the Capital Caſes) was puniſh't with Death or Exile, the <hi>Romans Ultimum ſupplicum;</hi> or Deportation, and the leaſt penalty that follow'd after that was the Cutting out the Tongue of the Perjur'd, we are no more I hope a <hi>Conquer'd People</hi> now, than we were before the Conqueſt, (whatever ſome Scotiſh Doctors, or Scotch Evidence may tell us.) And if we be the ſame Free Subjects the ſame True Engliſh men, In Gods Name let us have the <hi>ſame</hi> agree<g ref="char:EOLhyphen"/>able <note n="*" place="margin">
+                  <hi>Leg.</hi> Edward. c. 3. <hi>Leg.</hi> Aethel. c. 10. Mirror c. 4.</note> Laws, we had before we were a <hi>Conquer'd</hi> people, the ſame that in this Caſe agree ſo much with the Laws of God and Man; and we would willingly know ſince the ſecond offence in <hi>forging</hi> a DEED or publick Inſtrument is made by the fifth of <hi>Eliz. Felony,</hi> where but a little Land or Leaſe is liable to be loſt; why not the Forging of Commiſſions and Aſſociations to the taking away Lives, and then I am ſure ſuch Prieſts as <hi>Young</hi> and <hi>Kingſton</hi> that forge their order too ought not to have the <hi>benefit of their Clergy.</hi> So that to Revive theſe ſo Antient and Excellent Statutes for <hi>Perjury</hi> we ſee is not (as the Parliament once bravely oppos'd,) to <hi>change</hi> the Old Laws of <hi>England</hi> but to <hi>Reſtore</hi> them.</p>
+            <pb n="13" facs="tcp:32280:7"/>
+            <p> As our Caſe ſtands now, we have not ſo much as the <hi>Hazard</hi> the Chance of our fore Fa<g ref="char:EOLhyphen"/>thers, the Fire <hi>Ordeal</hi> to acquit us of the Accuſation of a Couple of Conbin'd Conſpirators, nor that other favour long ſince Legally to be granted, or to be demanded by the falſly Accuſed to defend his Innocency. <note n="*" place="margin">
+                  <hi>Vid.</hi> 2d. <hi>&amp;</hi> 3d. Inſt. cap. 14. <hi>&amp;</hi> cap. 72.</note> The Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bate. *but are immediately ſwallow'd up Quick by theſe falſe Crocodiles as ſoon as they gape with their upper Jaw; for our our Anceſtors commonly in Caſes of falſe Accuſations of Felony or <hi>High Treaſon,</hi> as well as in a Writ of <hi>Right</hi> had the priviledge of fighting it out with their Calumniators; and ſo was to be decided that Famous Caſe <note n="†" place="margin">
+                  <hi>Reign of</hi> Rich. III.</note> between <hi>Thomas</hi> Duke of <hi>Norfolk,</hi> and <hi>Henry</hi> Duke of <hi>Hereford,</hi> where the one accuſed the other as falſe and Trayterous to the King; and were this in practiſe at preſent, Capt<g ref="char:punc">▪</g> 
+               <hi>Brewerton,</hi> that Hervick Calumniator might have had a more honourable way of having the Life and Blood of Sir <hi>Rowland</hi> and the Gentlemen he ſo falſly accuſed, but ſince all pro<g ref="char:EOLhyphen"/>tection is now taken from the Innocent, that they cannot defend themſelves againſt the force of Villanous Affidavit neither by <hi>Law</hi> nor <hi>Arms,</hi> what is there left to fence againſt theſe devour<g ref="char:EOLhyphen"/>ing Animals, but fearful and ſevere Sanctions, that like the Fire we make in Woods againſt Wolves and wild Bears, may make them turn away and leave their Prey.</p>
+            <p>In the Conſpiracies indeed of Juries we have a terrible Judgment (<note n="*" place="margin">
+                  <hi>Coke</hi> 3 <hi>Inſt. Ch. Con<g ref="char:EOLhyphen"/>ſpi.</hi> 66.</note> as the Lord Chief Juſtice thinks it) whereby they are put out of Protection of the Laws, to looſe their Lands and Goods to have their <hi>Houſes rais'd</hi> and Trees rooted up; and if theſe are thought ſo great <hi>Villains,</hi> as to merit ſuch a <hi>Villanous Judgment,</hi> only in Civil Actions, what muſt ſuch <hi>Iriſh</hi> or <hi>Scotch</hi> Evidence merit in Criminal Caſes? Creatures that have no more <hi>Goods</hi> than what they <hi>carry</hi> on their backs, no other <hi>Houſes</hi> but their laſt Goal, and not a <hi>Tree</hi> to hang themſelves on, or a Dog, and ſo far from being aggriev'd by being put out of the pro<g ref="char:EOLhyphen"/>tection of the Laws, that they are commonly (as we ſee in theſe <hi>Bromley</hi> and <hi>Mancheſter</hi> Evi<g ref="char:EOLhyphen"/>dence, outlaw'd to our hands for being Felons or Highway-men; what then can ſuffice for ſuch tranſcendent Tranſgreſſors, that are uncapable of any other Puniſhment, but Death.</p>
+         </div>
+         <div type="part">
+            <opener>
+               <salute>My Lords and Gentlemen:</salute>
+            </opener>
+            <p>LET us only on this occaſion crave leave to remind You of what was not long ſince the Re<g ref="char:EOLhyphen"/>ſult of your own Learned Debates upon the like Emergency, That ſo ſolemn <note n="*" place="margin">22, 23 <hi>Car,</hi> II.</note> Act, on the Villanous Attempt on Sir <hi>John Coven<g ref="char:EOLhyphen"/>try;</hi> where no ſuch Puniſhment was provided for by any Law be<g ref="char:EOLhyphen"/>fore<g ref="char:punc">▪</g> Certainly this Caſe concerns You nearer now; where Your Honours, Your Eſtates, Your Lives lie at ſtake; and muſt needs make a deeper Impreſſion on Your Minds, than an Aſſault, or Mutilation; and ſince theſe Ruffians, theſe Aſſaſſins in Affidavit have adventured to attact no leſs than four or five Members at once. That Puny Attempt (in reſpect of theſe more Bulky and Buteherly Aſſaſſination, and the more barbarous in being alſo more ſecret) was lookt upon too big for that little Puniſhment the Law did inflict; ſo that, that which was only Treſpaſs, Aſſault or Battery before, was made Felony; and ſure Gentlemen, the cutting off a Man's Life, will deſerve as conſiderable a Puniſhment as the Slitting of a Noſe; or the Cutting out his Tongue or Eyes, which was long before made <note n="†" place="margin">5 <hi>H.</hi> IV. 5. 3 <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt.</hi> 62.</note> 
+               <hi>Capital.</hi>
+            </p>
+            <p>We are not ſo ſevere in our Juſt deſires, as to inſiſt that this ſo neceſſary an Act ſhould have any Injurious or revengeful Retroſpect, as to regard even <hi>Robert Young,</hi> a <hi>Taff,</hi> or a <hi>Lunt;</hi> a <hi>Blackhead,</hi> or a <hi>Wombrell;</hi> tho' one would think they ſhould deſerve no favour no more favour than a <hi>Dandys,</hi> or O <hi>brian;</hi> a <hi>Parry,</hi> or a <hi>Reeves,</hi> Men of better Birth and leſs Barbarity; at leaſt we might expect, that if with thoſe leſſer Criminals, they are not to be <hi>hang'd,</hi> that for
+<pb n="14" facs="tcp:32280:8"/> the <hi>publick</hi> Intereſt of the Nation, and the <hi>Safety</hi> of every Individual in it, they may at leaſt be <hi>Exil'd</hi> with them out of that Land in which they do not deſerve to live, <note n="*" place="margin">
+                  <hi>Coke</hi>'s <hi>Comm.</hi> 3d <hi>Inſt. Chap.</hi> 13.</note> as this will be; as my Lord <hi>Coke</hi> calls it upon the like occaſion, <hi>Salutaris ſeveritas &amp; beata ſecuritas;</hi> *A ſeverity only for the Safe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of us All, and a moſt bleſſed Security indeed for the Publick, the People and the Parliament.</p>
+         </div>
+         <div type="part">
+            <opener>
+               <salute>My Lords and Gentlemen:</salute>
+            </opener>
+            <p>LET our Zeal for the Publick Good, with You (who are Overſeers of it, <hi>Ne quid detri<g ref="char:EOLhyphen"/>menti capiat Reſpub lica)</hi> Supercede the Preſumption of theſe weak Overtures, for the Honour of the Nation, the Reputation of your Two Houſes, and the regaining a Repute to our once celebrated Law; which why they ſhould be defective in matters of ſuch main Concern as Life and Eſtate, is unaccountable.</p>
+            <p>
+               <hi>Let us have the long lookt for Bill for limiting Conſtructive Treaſon made at laſt an Act;</hi> and <hi>let not the Twelve Men in Scarlet, which were painted ſo terrible and bloody in the laſt Reigns be a Terror to the Subjects in This;</hi> All the <hi>Twelve</hi> may not have the Judgment and Moderation, the Learning and the Law of an <hi>Hales</hi> or an <hi>Holt;</hi> and when our Lands and our Lives are at ſtake, Malice and Ignorance may make moſt wretched Conſtructions on the 25 of <hi>Edward;</hi> if we are delivered to eat <hi>Manna</hi> and <hi>Quails,</hi> why muſt we ſtill be fed on Leeks and Onions; and if we muſt never ſee our <hi>Canaan,</hi> 'tis as good to periſh in the Wilderneſs; and 'tis tem<g ref="char:EOLhyphen"/>pting God to ſee thoſe Men that cry'd in their Bondage, to pleaſe themſelves now with their Shackles; and thoſe that not long ſince were ſo afraid of hanging on that Statute of King <hi>Edw.</hi> to play now with the <hi>Halter,</hi> as if it were no more than the Garter which he Inſtituted.</p>
+            <p>
+               <hi>Let the Evidence for the Priſoner by a ſpecial Act have his Oath adminiſtred him, as well as the Swearer for the King.</hi> We have found Villains and Perjury ſufficient on the one ſide to bring Men to the Gallows, and never yet ſeen ſo much on the other to ſave a Man from it: The Crown will have this advantage upon the Reciprocal Oath, That His Evidence if <hi>falſe,</hi> muſt perjure himſelf to ſave the Indicted; and if he ſwears <hi>True,</hi> 'tis all the reaſon in the world he ſhould be ſav'd: To refuſe this for the ridiculous Reaſon that it is againſt the King, as is commonly done; and particularly was in <note n="†" place="margin">
+                  <hi>Vid. Trial</hi> Fitz Har<g ref="char:punc">▪</g> 
+                  <hi>pag.</hi> 37.</note> 
+               <hi>Fitz Harris</hi>'s Caſe when demanded, is the higheſt Refle<g ref="char:EOLhyphen"/>ction on the Crown; the very blemiſh to our Conſtitution; dero<g ref="char:EOLhyphen"/>gatory to a Court of Juſtice, unworthy of Lawyers, and indeed as ſhall be ſhewn, againſt Law; it looks as if the Prince had it as a part of his Prerogative to have an advantage over the Subject's Lives, expreſly againſt <note n="*" place="margin">
+                  <hi>Cap.</hi> 29. Coke 2 <hi>Inſt.</hi>
+               </note> 
+               <hi>Magna Charta;</hi> which we dare affirm takes all the Care imagina<g ref="char:EOLhyphen"/>ble for the preſervation both of Life and Eſtate even in oppoſition to the King and Crown; and the <hi>Original Contract</hi> upon which we now ſtand has not I hope overturn'd that; and beſides this advantage of <hi>Swearing,</hi> as (we have ſhewn before) the King is advantageouſly enough poſted upon this Point in a Court of Judicature, in the Learning of his Judges, in the Zeal of his Attorney; the Eloquence of his Council, and it being the King's Court, and too much as it is commonly made, the Subject that comes to contend with him on his own Ground ought to have all the fair play imaginable, and upon Juſtice and Honour the advantage of the <hi>ground</hi> given him; for 'tis always judg'd unfair, <hi>To Cut, and Chuſe too.</hi> We are confident ſome of the King's own Council have been once of this Mind; and we dare engage to ſhew it under ſome of their own Hands who by this time may have forgot what fell from their Fingers five Year agone; and whatever were the hardſhips of Trials before this Revolution, 'tis notorious, there was never ſuch barefac'd Forgery and Villany that offer'd to ſet up for King's Evidence, tho' ſome may be, did endeavour to come near it; and if it be true what is reported, that one
+<pb n="15" facs="tcp:32280:8"/> of the Repriev'd Printers, has own'd himſelf Author of that Book for which <hi>Anderton</hi> died, 'twill help to remind ſome Authors of the Story of thoſe that were hang'd for the Murder of a Perſon abſent; and of my Lord <hi>Coke</hi>'s Heireſs that hung her Uncle by running away; and at laſt both return'd alive: All that can be ſaid in the Caſe is, 'tis eaſier to make Remarks on Trials than to regulate and reform them,</p>
+            <p>But beſides all this. the <hi>Benefit</hi> of an Oath againſt the King is allow'd in all Civil Actions, and as much the Subjects Right as his <hi>Benefit Ticket,</hi> tho' the King with ten times the Money ſhould draw all <hi>Blanks,</hi> and both theſe by Act of Parliament, and is a Mans Life then of leſs value to him than a Lot on the Million Adventure, or in a Civil Action have we a better Right to conteſt it with? The King's Auditor, then in a Criminal one with his Executioner; yet on this ſlippery ground we ſtand, notwithſtanding our excellent Laws and Conſtitution, ſo that the <hi>Priſoner</hi> ſeems to be <hi>ty'd up</hi> before Council or Sentence, at the firſt falſe ſtep, to be hang'd for the King.</p>
+            <p>My Lord <hi>Coke</hi> that Learned Lawyer, and once Gentleman, in your Station, an Honourable Member of Parliament, is expreſly for the Adminiſtration of this Oath, to the Evidence for the Priſoner; and ſays there is neither Author, Act, Book<g ref="char:punc">▪</g> Statute, Record, not ſo much as <note n="†" place="margin">
+                  <hi>Vid.</hi> Coke 3d. <hi>Inſt. Cap.</hi> 22.</note> 
+               <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>intitla Jaris,</hi> againſt it. And the Sta<g ref="char:EOLhyphen"/>tutes of <hi>Eliz.</hi> III. and <hi>Jacob.</hi> IV. are expreſly for it, where alſo in <hi>Criminal</hi> Caſes the Oath is tender'd; and in God's Name, let the <hi>Proteſtant Reign,</hi> and the <hi>Peaceful</hi> Reign be Preſidents for our <hi>Reigns,</hi> tho' at preſent in a State of War; and moreover partinent to this Purpoſe do's that Eminent Lawyer add that me<g ref="char:EOLhyphen"/>morable Expreſſion of that Celebrated Queen, who when <hi>Bur<g ref="char:EOLhyphen"/>leigh</hi> told Her of him as he was coming into Her Preſence; <note n="†" place="margin">
+                  <hi>V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi> Coke 3d. <hi>Inſt. ibid.</hi>
+               </note> Here comes Your Majeſties Attorney General that proſecutes <hi>pro Domina Regina:</hi> She very readily reply'd, rather let it be <hi>pro Domirâ veritate;</hi> and was ſo intent upon it, that ſhe really would have had it alter'd, and run thus in the Record; A charge fit to be given by every Prince to this Miniſter of his Proſecution.<g ref="char:punc">▪</g> inſtead of Inſtructions to <hi>Sharp Speeches</hi> and <hi>bitter Words;</hi> as if when they are coming perhaps to Crucify an Innocent, They muſt alſo give him <hi>Vinegar and Gall to drink.</hi>
+            </p>
+            <p>
+               <hi>Gentlemen,</hi> We have had Great Boaſts that we are come to Queen <hi>Beſs</hi> her Days; and there<g ref="char:EOLhyphen"/>fore 'tis but fit we ſhould have Queen <hi>Beſs</hi> Government too.</p>
+            <p>And <hi>Luſtly;</hi> Let this ſo neceſſary a Bill for the very Being of the Subject be paſt into a Law; Great Things are expected from this Seſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and theſe Laws indeed would mako the Seſſion <hi>Great.</hi>
+            </p>
+            <p>Let <hi>PERJVRY</hi> in <hi>Capi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al</hi> Caſes be as <hi>Capitally</hi> puniſh'd: Since 'tis God's Law, All Chriſti<g ref="char:EOLhyphen"/>ans Law, and was once our Law; and this no Airy flight or Aſſertion, but what we have made out from the Law of God, The Law of Nations, and our own Law-Books; 'tis a Jeſt to talk of our Excellent Laws, when we want one to ſecure our Lives, and our Conſtitution goes upon <hi>Crutches</hi> as ſtout as we think it, while the <hi>People</hi> that are to Eſtabliſh it are thus <hi>cramp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>crippl'd;</hi> What Compenſation for God ſake can it be to a Peer or Commoner after he has made his Cavalcade to <hi>Tower-Hill</hi> or <hi>Tyburn</hi> to have a <hi>Young</hi> or a <hi>Lunt,</hi> to look with an Iron Cap thro' a Wooden Cage, and gloriouſly defended by a Guard from a Rotten Egg, or Turnep; or what kind of Conſolation to the Poſterity of a <hi>Marlebor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ugh,</hi> or a <hi>Molineun,</hi> after the <hi>Chopping</hi> of their <hi>Heads,</hi> to have had a <hi>Snip</hi> of <hi>Robert</hi>'s Ear, that would have blemiſht the Pillory, or a little of <hi>Lunt</hi>'s Leather, that if Nail'd to the Gibbet muſt have made it bluſh: It was pretty oddly obſerv'd by a Biſhop well enough affected to the Government, That the <hi>Non-Jurors</hi> had pre<g ref="char:EOLhyphen"/>ſerv'd the Nation from Atheiſm; but by the encreaſe of theſe ſort of <hi>Jurors</hi> there is no hopes of keeping out the moſt Atheiſtical Infidelity; For never in any Age were ſuch ſad Examples of Fall'n Reprobates, that had ſunk down to ſuch a degree of Diabolical Atheiſm; (for the
+<pb n="16" facs="tcp:32280:9"/> 
+               <hi>Devils,</hi> tho' the falſe Accuſers of the Brethren <hi>yet fear and tremble)</hi> as has been found out in the Forgers of theſe two laſt moſt <hi>Helliſh Plots,</hi> of which perhaps <hi>Fuller,</hi> their Foreman would have furniſht us with a finer Original. What will the next Generation think of this in the Revolving our Annals and Hiſtory, when they ſhall ſee ſo many Perjuries upon Record, and moſt of them unpuniſh'd? When they ſhall find ſuch a Catalogue of uncouth Names, and more unheard of Monſters and Animals than any in <hi>Aldr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vandus?</hi> when they ſhall meet with ſo many <hi>Mac-Moyers, Mac-Oneals, Mac-Namarac's, Blackheads,</hi> and <hi>Whombralls,</hi> all Tanti<g ref="char:EOLhyphen"/>vying it away upon the Sacrament; as if they were ſo many Spiritual Saints, when all the while nothing leſs than ſo many Devils, Incarnate <hi>Sons of Belial;</hi> for ſo the very word of God has call'd them that by <hi>falſe Witneſs</hi> diſpoſſeſs a <hi>Naboth</hi> or a <hi>Neighbour</hi> of his <hi>Life</hi> and <hi>Vineyard;</hi> Hell-hounds! that in the dark Night purſue their Prey, that like <hi>Peſtilence Walk in Darkneſs;</hi> till fletch't and ſharpn'd like the <hi>Arrow,</hi> they come to <hi>deſtroy us</hi> at <hi>Noonday:</hi> That Plot how to <hi>ſeize</hi> the <hi>Heir,</hi> and Quarter his <hi>Body;</hi> only to <hi>divide</hi> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Inheritance.</hi> Theſe things Gentle<g ref="char:EOLhyphen"/>men, have not <hi>been done in a corner, and Ye that are Rulers in our Iſrael; Ye our Legiſlators, cannot be ſaid to have heard or known none of theſe things;</hi> The Biſhop has laid all open in one Book, and there will matter enough come before you to make up another.</p>
+            <p>If any Members ſhould be ſo hard, as not to be eaſily mov'd with ſo tender a Caſe, let them but conſider the ſaid circumſtances of ſuch a dying Innocent amidſt his Horror and Diſtraction, to find himſelf hurrying away to an infamous and painful Death, thro' all the Gazing Crowd, and gaſtly Pageantry that attends it; and all the while perhaps ſo Juſt and Innocent, that he is only conſcious of the Injuſtice and Injury that is done him, and has in Equity, a Right to that Life and Freedom that every Spectator enjoys, that comes to ſee him die, and more than many, and (his Accuſers eſpecially) that don't deſerve to <hi>live,</hi> it muſt needs diſcompoſe and diſtract the Sedateſt Soul to be thus tor'n from the Body, and to leave that too to be butcher'd abroad; We muſt confeſs we look upon this to have been much of Mr. <hi>Corniſh</hi>'s Caſe, whoſe dying Ago<g ref="char:EOLhyphen"/>ny many that were no Enemies to that Reign and Government could not ſo eaſily digeſt; The conflicts and convulſions both of Soul and Body, that Innocent Perſon muſt be under in ſuch ſad circumſtances is unconceivable, whilſt a Tacit Guilt; or opinionatre of the Goodneſs of the Cauſe in which he ſuffer'd ſo long as matters of Fact are truly ſworn, makes the Dying and Condemn'd more patiently to expire, either from the Approbation of the Fact for which he ſuffers, or conſidering it as the Effect of his own Crime or Indirection; and it is obſervable in that Man's Caſe we mention'd, we find that neither Judges nor Jury could defend themſelves from the killing force of a <hi>falſe Oath,</hi> which from the Lips of a King's Evidence like the Ball from the mouth of a Cannon carries all before it where it is levell'd<g ref="char:punc">▪</g>
+            </p>
+            <p>And thus we hope we have ſhewn that this is a National Concern, and not the particular Caſe of a few incenſed and uneaſy <hi>Jacobites,</hi> as many that are unwilling to loſe the leaſt power of Oppreſſing may be apt to imagin, but ſuch will then only be beſt Taught when they come per<g ref="char:EOLhyphen"/>haps to find it their <hi>own,</hi> and have bought more Wit ſo late, and ſo dearly. Neither will we imagin, as ſome perhaps may more maliciouſly among that Party conclude, that theſe Ma<g ref="char:EOLhyphen"/>chinations againſt them have been carried on by any of our Eminent Miniſters of State; we ſee how <hi>Robert Young</hi>'s Roguery and Information was rejected, long before it was diſcover'd and found out; and his Bundle of Papers and Intelligence Branded and ſtigmatiz'd in the Forehead for that of a <hi>Very ROGUE;</hi> but theſe Villanous Evidences in all probability have been In<g ref="char:EOLhyphen"/>ſtigated only by ſome Punies in the Politicks; ſome half-witted Underlings, The <hi>Fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z Harris's</hi> of the Times, that would officiate themſelves into favour, by ſcandalizing thoſe they would pretend to ſerve<g ref="char:punc">▪</g> and whom our Miniſters (if detected) ought to make Examples for their Impudent Preſumption, and the diſſervice that is done the Gove<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nment; for we may look upon theſe Creatures and Conjurors more Diabolical than the Evidence; they thus raiſe us up from the the Devil<g ref="char:punc">▪</g> for if we could have any Charity for <hi>them,</hi> we might think that <hi>they</hi> only de<g ref="char:EOLhyphen"/>ſign'd
+<pb n="17" facs="tcp:32280:9"/> to live by the Tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>do, and to damn themſelves for a little <hi>Bread;</hi> whereas theſe more malicious Conſpirator's Plot to deſtroy the Innocent at their own Coſt, and pay for the pains of their Perjury, with the Price of Blood, and no little Expence for their Preferment may meet perhaps with the miſtaken Reward of falſe <hi>Edric's</hi> Treachery, who was prefer'd for the Villany he had committed for the ſake of King <hi>Canutus,</hi> above any of the Peers, by putting his Head upon a Pole; and beſides all wiſe Stateſmen will know that it is no Policy to exaſpe<g ref="char:EOLhyphen"/>rate even what they think a contemptible Part of the Nation; For notwithſtanding all King <hi>James</hi>'s Army, <hi>Monmouth</hi> might have made mad work of it, had he took them Napping; ſo that if we are well wiſhers to our preſent Government, we ought to ſtudy how to make it eaſie to all alike, leſt we ſhould be miſtaken (as our Predeceſſors have been) in the conſequences of any violent Proſecutions. The Gentry and Nobility of the Nation are upon another account oblig'd to take notice of this New way of <hi>Swearing;</hi> with relation to the true Rules of Ho<g ref="char:EOLhyphen"/>nour and Chivalry, or elſe to reſtore again the antient practice of turning Champion; and defending ones ſelf, when accuſed by <hi>Combate,</hi> and to <hi>challenge</hi> the <hi>Evidence</hi> inſtead of the <hi>Jury;</hi> for tho' ſome of theſe Brood of Witneſſeſs like a body of beggarly Bandity ſet up to Rob and to kill, but according to Law, and to level at Men of Eſtates alike as they come in their way; ſo it ſeems there are others among them that are irritated into this Villany by way of Animoſity and Revenge, and like the <hi>Band</hi> among the <hi>Jews,</hi> bind themſelves in a Curſe neither to eat nor drink till they have ſlain <hi>Paul;</hi> and of this humor we find were ſome of the <hi>Mac'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Iriſh</hi> in <hi>Colledge</hi>'s Caſe, the <hi>Duffy</hi>'s in <hi>Plu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ket</hi>'s Caſe, and our renowned Capt. <hi>Brewert<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> in Sir <hi>Rowland Stanley</hi>'s Caſe; ſo that Perjury at laſt is like to arrive to a ſublime pitch of Hervick Valour; and inſtead of deciding Quarrels by a Duel it may be thought a piece of Gallantry to <hi>get the Blood of a Man,</hi> by ſwearing him out of his Life, what conſe<g ref="char:EOLhyphen"/>quences this may have upon the Nobility and Gentry we leave to the Determination of both Houſes of Parliament that are compoſed of both.</p>
+            <p>And now after all that has been ſaid for this ſo neceſſary a Law againſt <hi>Wilful Perjury,</hi> none ever yet could bring the leaſt objection againſt it, ſave <hi>only</hi> this ſingle one.</p>
+            <p>That <hi>Capital</hi> Puniſhments in Caſes of Perjury, would deter all Perſons from detecting of capital Crimes, and eſpecially Conſpiracies againſt the King and the Crown.</p>
+            <p>As to what concerns the Crown and King's Caſe ſomewhat has been ſaid already upon ano<g ref="char:EOLhyphen"/>ther <hi>head,</hi> Tho' it may be obſerv'd here that it was the Practice of our Royal Anceſtors to Triumph more in the <hi>detecting</hi> the Innocence and Quietneſs of their Subjects, than of an hun<g ref="char:EOLhyphen"/>dred horrid Plots and Conſpiracies; for thoſe whether true or forg'd, only help to make the Mo<g ref="char:EOLhyphen"/>narchs more uneaſie to themſelves and People; and beſides it is the ſaying of the wiſe and good Emperour <hi>Trajan,</hi> to <hi>Severus,</hi> and a Maxim in the Laws both <hi>Divine</hi> and <hi>Human, That it is better</hi> 
+               <note n="*" place="margin">
+                  <hi>Satius eſt, impunitum relinqui facinus necentis. quam in nocent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m damna<g ref="char:EOLhyphen"/>ri ſic iniquite <g ref="char:V">Ʋ</g>lj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ian</hi> Trajanus Severo <hi>reſcripſit.</hi>
+               </note> 
+               <hi>Ten Guilty Perſons eſcape, than one Innocent Man periſh:</hi> Now we would feign know which way there is for an <hi>Innocent Man</hi> to be ſafe, when for the <hi>weak</hi> Pretence of Regal Prerogative there ſhall no <hi>greater</hi> Terror and Reſtraint be put upon ſuch Villanous Forgeries: The moſt Innocent Men are commonly the worſt Enemies to ſuch Diabolical Varlets, and therefore from them they may expect the moſt of Miſchief, and this has been made out to a mi<g ref="char:EOLhyphen"/>racle in ſome of the foremention'd Conſpiracies.</p>
+            <p>Beſides, as <hi>Paraſitical</hi> as the Argument is to the <hi>Crown,</hi> it is <hi>perfidious</hi> and <hi>Trayterous</hi> to our very <hi>Conſtitution;</hi> for if the King's Prerogative muſt ſtand in oppoſition to the Lives and Safety of Subjects; We have at once over-turn'd all that <hi>Original Contract</hi> upon which we ſettled the very Foundation of the preſent Government; and we can compare the <hi>Unjuſt</hi> No<g ref="char:EOLhyphen"/>tion to nothing elſe, but the <hi>Juſtice</hi> ſome <hi>Engliſh</hi> Gentlemen (we have heard of) met withal in <hi>France,</hi> who in their paſſage thro' it, by a <hi>Perjurious</hi> Wretch that had never ſeen them be<g ref="char:EOLhyphen"/>fore
+<pb n="18" facs="tcp:32280:10"/> bein<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſworn to be all <hi>Hagonots,</hi> and upon that were impriſoned and ill<g ref="char:punc">▪</g> us'd; and contra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to the Law of Nations, upon Appealing to the Governour of the next Garriſon, and ſhewing their Authentick Paſs-Port, and demanding Reparation for Damages ſuſtain'd, had only this cold Compliment to make them amends, That they muſt excuſe their ill Treatment from the ſtrict Regard was had to the King's Ed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct; and ſince the Fellow had only perjur'd himſelf in Zeal for his Majeſty<g ref="char:punc">▪</g>s Service, he did not ſee how he could well puniſh him; <hi>Gentlemen!</hi> where Life is concern'd too, we hope <hi>French</hi> Arguments will have no weight with <hi>Engliſhmen.</hi> But further, for this only Objection, There is no more Senſe or Reaſon in it than of publick Spirit or Honeſty; for what Reaſon has an honeſt upright <hi>Engliſh</hi> Evidence, with no <hi>Iriſh Hue,</hi> or <hi>Scotch Complexion,</hi> to decline giving a fair Teſtimony to what he knows of a Priſoner, ſince whatſoever Evidence the Priſoner brings to diſprove his (being likewiſe upon Oath, which as my Lord <hi>Coke</hi> ſays no Law is againſt) muſt run the ſame Riſque of a capital Puniſhment, if by Forgery or Falſhood he goes to invalidate the King's Evidence; ſo that the Accuſer here has the ſame Security for his Life that the Perſon has whom he Accuſes, and ſince ſwearing Falſe is grown ſo Faſhionable, 'tis fit he ſhould have no more; and 'tis certain from the purity of the Puniſhment the ſecurity to both is the ſame; beſides there is this to be conſider'd to en<g ref="char:EOLhyphen"/>courage any true Witneſs from being diſmay'd, That Truth from probability and circumſtances will defend it ſelf, whilſt thoſe that falſly come to invade it (as the Succeſs in theſe Affairs were Evidenc'd) are ſooner diſcover'd in their moſt ſecret Conſpiracies; So that no Man of Senſe or Reaſon can ſee the leaſt Reaſon why notwitſtanding this Reciprocal puniſhment an<g ref="char:EOLhyphen"/>nex'd to Perjury, he cannot as boldly proceed in confidence of the Truth of what he Depoſes; as if there were no ſuch Retaliation or Identity of puniſhment annex'd; and that which may be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ack'd to this Objection; that this might multiply Swearing and Perjury, Vying and Re<g ref="char:EOLhyphen"/>vying on one another by way of Revenge, is ſo prepoſterous an Argument that it contradicts the other, and is as falſe in Fact, for if by this <hi>Lex Talionis,</hi> Evidence can be terrified (as 'tis objected) from giving True Teſtimony; How can it diſencourage an Impoſtor to diſprove it by Forging a Falſhood, ſince the Terror and Puniſhment muſt equally extend to both; and for ſuch Varlets as by way of Revenge would ſwear Perjury againſt another for Evidence given in a Capital Caſe only to take away his Life, has no advantage at all by this Act; for we find by all theſe ſad Examples, that ſuch Villains can as eaſily ſwear you into a Plot and High Trea<g ref="char:EOLhyphen"/>ſon: And for which perhaps many a Man's Breath has been ſtopt, only becauſe the perjur'd Ac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſer had nothing to choak him but his own Lyes and Forgeries, and many an Innocent brought to a ſhameful <hi>Death<g ref="char:punc">▪</g>
+               </hi> becauſe the Informer was never in any danger of his <hi>Life.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <opener>
+               <salute>Gentlemen.</salute>
+            </opener>
+            <p>VVE are none of thoſe your Town-Whiffers (the beſt in the world at throwing of dirt) commonly call'd <hi>Jacobites;</hi> new diſtinctions that may coſt us as much as the old ones of <hi>Whigg</hi> and <hi>Tory;</hi> for a <hi>Jacobite</hi> indeed in the common Acceptation is worſe than <hi>Tory;</hi> and I hope we ſhall give no occaſion to make a <hi>Williamite</hi> worſe than a <hi>Whigg;</hi> 'Tis a known Reproachful Reflexion to make a <hi>Jacobite,</hi> one that tho' an <hi>Engliſhman</hi> would enſlave his Country to a Forreign Yoke, and what is worſe a <hi>French</hi> one, but if ſuch Blood-ſuckers, ſuch Reprobate Svearers are to make their Cavalcade thro<g ref="char:punc">▪</g> the Kingdom; attended with <hi>Dutch</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o deſtroy peaceable and True <hi>Engliſhmen,</hi> Come <hi>French</hi> or <hi>Turk,</hi> our Condition cannot <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worſe; and theſe <hi>Iriſh</hi> and <hi>Scottiſh</hi> Evidence will certainly bring us to their <hi>Scottiſh</hi> or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Government, That <hi>Abſolute Power</hi> without Reſerve; and tho' ſome <hi>Scotch</hi> Prieſts may <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch Enemies to the <hi>Doctrin of the Bow-ſtring,</hi> ſuch <hi>Forging,</hi> and <hi>Swearing</hi> will differ <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> from ſome peremptory Orders to bring in our Heads,</p>
+         </div>
+         <div type="part">
+            <pb n="19" facs="tcp:32280:10"/>
+            <opener>
+               <salute>My Lords and Gentlemen:</salute>
+            </opener>
+            <p>WE are plainly our ſelves, plain, honeſt, Country Gentlemen, True and Truſty, Free-born <hi>Engliſhmen,</hi> that only plead <hi>Magna Charta;</hi> The Petition of Right the <hi>P.</hi> of <hi>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Declaration for our Lives and Eſtates, neither directly nor indirectly known or concern'd with any againſt whom this Flagitious Evidence have conſpir'd; but only engag'd in a Common Concern for the Honour of the Nation, The Intereſt of their Country, which none but Apo<g ref="char:EOLhyphen"/>ſtate <hi>Scotc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men,</hi> or perjur'd <hi>Iriſhmen</hi> will offer to betray; therefore ſince this ſort of Cattle have imported themſelves of late, and Creatures crawl'd into the Nation with Tongues worſe than a <hi>two edged Sword,</hi> while the <hi>Poyſon of Aſps is under their Lips,</hi> what is to be done in ſo profligate an Age where Atheiſm is drawing up the Sluces to deluge us in ſuch horrid Impie<g ref="char:EOLhyphen"/>ties, and the Air ſo Tainted with the Breath of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe Animals, that we may expect even a <hi>Cloud</hi> of <hi>Iriſh</hi> Witneſſes; what is left to preſerve the Land from thoſe Locuſts, <hi>but the making their Swearing away other Mens Lives to be a Forfeiture of their own;</hi> For if Salary ſhall be the ſe<g ref="char:EOLhyphen"/>cret Price of Blood, 'twill be only the Fool then that does not Commence a Villain: And for this End (with all Submiſſion) to this <hi>Great</hi> and <hi>Wiſe Body</hi> in this <hi>great and weigty Caſe.</hi> This Old <hi>Engliſhmen</hi>'s Addreſs humbly preſented; may it have the Effect to Poſtpon all by ends to the Publick; To make us look like other Nations that underſtand Civil Law and Equity like other Chriſtians that underſtand God's Laws, and the Decalogue like True <hi>Engliſhmen</hi> that underſtand their Old Law and own Intereſt; and then there will be no fear of <hi>Iriſh</hi> Inter<g ref="char:EOLhyphen"/>lopers, or <hi>Scotch</hi> Brokers, for the <hi>Bartering</hi> or <hi>Barreting</hi> away of <hi>Engliſhmen</hi>'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lives; For the Honour of God, for the Credit of the Nation; for the Safety of our Selves, and the ſaving ſome of theſe Atheiſtical Fellow's <hi>Souls,</hi> ſince <hi>Perjury</hi> is growing as <hi>Epidemical</hi> as the <hi>Plague,</hi> and as <hi>Mortal</hi> too, Let ſome frightful Mark upon the Door of every Tribunal; and let not the <hi>Innocent,</hi> but thoſe that would <hi>deſtroy</hi> them die.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
